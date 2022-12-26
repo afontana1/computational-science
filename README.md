@@ -57,6 +57,9 @@
 	- https://erikdemaine.org/classes/
 32. [awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing)
 33. [Planning Algorithms](http://lavalle.pl/planning/)
+34. [Data Driven Dynamics and Control](https://www.eigensteve.com/)
+35. [Dynamic Optimization](https://apmonitor.com/do/index.php)
+36. [Handbook of Engineering Statistics](https://www.itl.nist.gov/div898/handbook/index.htm)
 
 ## Organizations
 - [Nico](https://www.nico.northwestern.edu/)
@@ -68,6 +71,7 @@
 - [Swarm Lab](https://www.theswarmlab.com/)
 - [Multi Agent Systems Lab](http://www.cs.cmu.edu/~softagents/)
 - [Wilke Lab](https://wilkelab.org/)
+- [Advanced Agent-Robotics Labs](https://www.cs.cmu.edu/~softagents/index.html)
 
 ## Videos
 - [Systems Dynamics](https://www.youtube.com/user/UKSystemDynamics/featured)
@@ -164,6 +168,7 @@
 	- [Artificial Life](https://en.wikipedia.org/wiki/Category:Artificial_life)
 	- [Collective Intelligence](https://en.wikipedia.org/wiki/Category:Collective_intelligence)
 	- [Polya Urn Model](https://en.wikipedia.org/wiki/P%C3%B3lya_urn_model)
+	- [Synthetic Intelligence](https://en.wikipedia.org/wiki/Synthetic_intelligence)
 47. [Conceptual Modeling](https://en.wikipedia.org/wiki/Category:Conceptual_modelling)
 48. [Graph Families](https://en.wikipedia.org/wiki/Category:Graph_families)
 	- [Graph Theory](https://en.wikipedia.org/wiki/Category:Graph_theory)
