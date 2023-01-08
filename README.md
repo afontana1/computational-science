@@ -60,6 +60,7 @@
 34. [Data Driven Dynamics and Control](https://www.eigensteve.com/)
 35. [Dynamic Optimization](https://apmonitor.com/do/index.php)
 36. [Handbook of Engineering Statistics](https://www.itl.nist.gov/div898/handbook/index.htm)
+37. [Scientific Computing with Python](https://caam37830.github.io/book/index.html)
 
 ## Organizations
 - [Nico](https://www.nico.northwestern.edu/)
@@ -113,6 +114,9 @@
 6. [Complex_systems_theory](https://en.wikipedia.org/wiki/Category:Complex_systems_theory)
 7. [Systems_theory](https://en.wikipedia.org/wiki/Category:Systems_theory)
 8. [Multi-agent_systems](https://en.wikipedia.org/wiki/Category:Multi-agent_systems)
+	- [Agent Based Model](https://en.wikipedia.org/wiki/Agent-based_model)
+	- [Mesa: Agent-based modeling in Python 3+](https://mesa.readthedocs.io/en/stable/#)
+	- [AgentPy - Agent-based modeling in Python](https://agentpy.readthedocs.io/en/latest/)
 9. [Systems_architecture](https://en.wikipedia.org/wiki/Category:Systems_architecture)
 10. [Structure](https://en.wikipedia.org/wiki/Category:Structure)
 11. [Soft_systems_methodology](https://en.wikipedia.org/wiki/Soft_systems_methodology)
@@ -239,3 +243,5 @@
 42. [Numerical Analysis Python](https://github.com/john-s-butler-dit/Numerical-Analysis-Python)
 43. [Simulation and Modeling of Natural Processes](https://github.com/soumyasen1809/Simulation-and-modeling-of-natural-processes)
 44. [Computers Waves and Simulations](https://github.com/soumyasen1809/Coursera_Computers_Waves_Simulations)
+45. [agentpy](https://github.com/JoelForamitti/agentpy)
+46. [Mesa](https://github.com/projectmesa/mesa)
