@@ -30,6 +30,7 @@
 	- [Network Science](https://en.wikipedia.org/wiki/Category:Network_science)
 	- [Multidimensional Network](https://en.wikipedia.org/wiki/Multidimensional_network)
 	- [Bayesian Networks](https://en.wikipedia.org/wiki/Category:Bayesian_networks)
+	- [CS 7280](https://faculty.cc.gatech.edu/~dovrolis/Courses/NetSci/)
 19. [Complexity](https://www.complexityexplorer.org/)
 20. [Systems Innovation](https://systemsinnovation.io/course/)
 21. [Math cheatsheets](https://stanford.edu/~shervine/)
@@ -73,6 +74,7 @@
 - [Multi Agent Systems Lab](http://www.cs.cmu.edu/~softagents/)
 - [Wilke Lab](https://wilkelab.org/)
 - [Advanced Agent-Robotics Labs](https://www.cs.cmu.edu/~softagents/index.html)
+- [Network Science Institute](https://www.networkscienceinstitute.org/)
 
 ## Videos
 - [Systems Dynamics](https://www.youtube.com/user/UKSystemDynamics/featured)
@@ -197,6 +199,11 @@
 60. [Risk_analysis](https://en.wikipedia.org/wiki/Category:Risk_analysis)
 	* [Risk_analysis_methodologies](https://en.wikipedia.org/wiki/Category:Risk_analysis_methodologies)
 	* [Risk](https://en.wikipedia.org/wiki/Category:Risk)
+61. [Self Organized Criticality](https://en.wikipedia.org/wiki/Self-organized_criticality)
+62. [Path Dependence](https://en.wikipedia.org/wiki/Path_dependence)
+63. [Critical Point](https://en.wikipedia.org/wiki/Critical_point_(network_science))
+64. [Power Law](https://en.wikipedia.org/wiki/Power_law)
+65. [Scale Invariance](https://en.wikipedia.org/wiki/Scale_invariance)
 
 ## Libraries
 1. [ndlib](https://github.com/GiulioRossetti/ndlib)
