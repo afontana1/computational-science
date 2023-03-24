@@ -62,6 +62,9 @@
 35. [Dynamic Optimization](https://apmonitor.com/do/index.php)
 36. [Handbook of Engineering Statistics](https://www.itl.nist.gov/div898/handbook/index.htm)
 37. [Scientific Computing with Python](https://caam37830.github.io/book/index.html)
+38. [Complexity Explained](https://complexityexplained.github.io/)
+39. [Introduction to Neural Computation](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/)
+40. [Introduction to System Dynamics](https://ocw.mit.edu/courses/15-871-introduction-to-system-dynamics-fall-2013/)
 
 ## Organizations
 - [Nico](https://www.nico.northwestern.edu/)
@@ -75,6 +78,7 @@
 - [Wilke Lab](https://wilkelab.org/)
 - [Advanced Agent-Robotics Labs](https://www.cs.cmu.edu/~softagents/index.html)
 - [Network Science Institute](https://www.networkscienceinstitute.org/)
+- [New England Complex Systems Institute](https://necsi.edu/)
 
 ## Videos
 - [Systems Dynamics](https://www.youtube.com/user/UKSystemDynamics/featured)
