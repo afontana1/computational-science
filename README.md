@@ -1,5 +1,7 @@
 # Computational Science related material
 
+- [Google Site Reliabilty Engineering](https://sre.google/sre-book/table-of-contents/)
+
 1. [Systems Science](http://systems-sciences.uni-graz.at/etextbook/)
 2. [Scientific Modeling](https://en.wikipedia.org/wiki/Category:Scientific_modeling)
 3. [UML](https://en.wikipedia.org/wiki/Category:Unified_Modeling_Language)
@@ -31,6 +33,8 @@
 	- [Multidimensional Network](https://en.wikipedia.org/wiki/Multidimensional_network)
 	- [Bayesian Networks](https://en.wikipedia.org/wiki/Category:Bayesian_networks)
 	- [CS 7280](https://faculty.cc.gatech.edu/~dovrolis/Courses/NetSci/)
+	- [CS 224W](https://snap-stanford.github.io/cs224w-notes/)
+	- [ML With Graphs](https://wandb.ai/syllogismos/machine-learning-with-graphs?workspace=user-)
 19. [Complexity](https://www.complexityexplorer.org/)
 20. [Systems Innovation](https://systemsinnovation.io/course/)
 21. [Math cheatsheets](https://stanford.edu/~shervine/)
@@ -208,6 +212,7 @@
 63. [Critical Point](https://en.wikipedia.org/wiki/Critical_point_(network_science))
 64. [Power Law](https://en.wikipedia.org/wiki/Power_law)
 65. [Scale Invariance](https://en.wikipedia.org/wiki/Scale_invariance)
+66. [Cascading Failure](https://en.wikipedia.org/wiki/Cascading_failure)
 
 ## Libraries
 1. [ndlib](https://github.com/GiulioRossetti/ndlib)
