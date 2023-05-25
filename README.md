@@ -137,7 +137,7 @@
 16. [Systems_analysis](https://en.wikipedia.org/wiki/Category:Systems_analysis)
 17. [Systems_theory_stubs](https://en.wikipedia.org/wiki/Category:Systems_theory_stubs)
 18. [Emergence](https://en.wikipedia.org/wiki/Emergence)
-19. [Diffusion](https://en.wikipedia.org/wiki/Diffusion)
+19. [Diffusion](https://en.wikipedia.org/wiki/Category:Diffusion)
 20. [Percolation Theory](https://en.wikipedia.org/wiki/Percolation_theory)
 21. [Design_science](https://en.wikipedia.org/wiki/Design_science_(methodology))
 22. [Phase Space](https://en.wikipedia.org/wiki/Phase_space)
@@ -147,7 +147,7 @@
 25. [Complex_adaptive_system](https://en.wikipedia.org/wiki/Complex_adaptive_system)
 26. [Conceptual_systems](https://en.wikipedia.org/wiki/Category:Conceptual_systems)
 27. [Non Linear Systems](https://en.wikipedia.org/wiki/Category:Nonlinear_systems)
-28. [Dynamical Systems](https://en.wikipedia.org/wiki/Category:Dynamical_systems)
+28. [Transport Systems](https://en.wikipedia.org/wiki/Category:Transport_phenomena)
 29. [Markov_models](https://en.wikipedia.org/wiki/Category:Markov_models)
 30. [Markov_processes](https://en.wikipedia.org/wiki/Category:Markov_processes)
 31. [Stochastic_processes](https://en.wikipedia.org/wiki/Category:Stochastic_processes)
@@ -213,6 +213,9 @@
 64. [Power Law](https://en.wikipedia.org/wiki/Power_law)
 65. [Scale Invariance](https://en.wikipedia.org/wiki/Scale_invariance)
 66. [Cascading Failure](https://en.wikipedia.org/wiki/Cascading_failure)
+67. [Thermodynamic Processes](https://en.wikipedia.org/wiki/Category:Thermodynamic_processes)
+68. [Numerical Differential Equations](https://en.wikipedia.org/wiki/Category:Numerical_differential_equations)
+69. [Partial Differential Equations](https://en.wikipedia.org/wiki/Category:Partial_differential_equations)
 
 ## Libraries
 1. [ndlib](https://github.com/GiulioRossetti/ndlib)
