@@ -35,6 +35,8 @@
 	- [CS 7280](https://faculty.cc.gatech.edu/~dovrolis/Courses/NetSci/)
 	- [CS 224W](https://snap-stanford.github.io/cs224w-notes/)
 	- [ML With Graphs](https://wandb.ai/syllogismos/machine-learning-with-graphs?workspace=user-)
+	- [Network Science Course](https://www.youtube.com/playlist?list=PLriUvS7IljvkGesFRuYjqRz4lKgodJgh2)
+	- [Complex Network: Theory and Application](https://www.youtube.com/playlist?list=PL6awLjcQvnYB8YSTKCFe1VDQlgKPFujW1)
 19. [Complexity](https://www.complexityexplorer.org/)
 20. [Systems Innovation](https://systemsinnovation.io/course/)
 21. [Math cheatsheets](https://stanford.edu/~shervine/)
