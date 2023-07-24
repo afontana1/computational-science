@@ -71,6 +71,7 @@
 38. [Complexity Explained](https://complexityexplained.github.io/)
 39. [Introduction to Neural Computation](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/)
 40. [Introduction to System Dynamics](https://ocw.mit.edu/courses/15-871-introduction-to-system-dynamics-fall-2013/)
+41. [awesome-complexity](https://github.com/jepemo/awesome-complexity) & [awesome-complexoty](https://github.com/sellisd/awesome-complexity)
 
 ## Organizations
 - [Nico](https://www.nico.northwestern.edu/)

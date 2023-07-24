@@ -20,6 +20,12 @@
 18. [https://towardsdatascience.com/intro-to-agent-based-modeling-3eea6a070b72](Intro to Agent Based Modeling)
 19. [Quant Econ Lectures](https://quantecon.org/lectures/)
 
+## Open Source
+
+1. [Proton-T](https://github.com/LABSS/PROTON-T)
+2. [Simulator-Core](https://github.com/SocialSim/SimulatorCore)
+3. [SocialGym2](https://github.com/ut-amrl/SocialGym2)
+
 ## Videos
 
 1. [Agent Based Modeling - All you Wanted to Know](https://www.youtube.com/playlist?list=PLsv8cj_Tu8Ks_JKH9ZshfA6C6DO3MAG_q)
