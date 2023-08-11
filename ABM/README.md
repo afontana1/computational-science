@@ -43,6 +43,11 @@
 19. [simpy](https://github.com/simpx/simpy)
 20. [ConcurrentSim.jl](https://github.com/JuliaDynamics/ConcurrentSim.jl)
 21. [DiscreteEvents.jl](https://github.com/JuliaDynamics/DiscreteEvents.jl)
+22. [abides](https://github.com/abides-sim/abides)
+23. [de_sim](https://github.com/KarrLab/de_sim)
+24. [discrete event simulator](https://github.com/holgerbrandl/kalasim)
+25. [rust agent based models](https://github.com/facorread/rust-agent-based-models)
+26. [Warteschlangensimulator](https://github.com/A-Herzog/Warteschlangensimulator)
 
 ## Videos
 
