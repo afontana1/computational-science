@@ -14,10 +14,10 @@
 12. [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 13. [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/)
 14. [Paper Review: Generative Agents: Interactive Simulacra of Human Behavior](https://artgor.medium.com/paper-review-generative-agents-interactive-simulacra-of-human-behavior-cc5f8294b4ac)
-15. [https://hackernoon.com/exploring-the-potential-of-generative-agents-simulating-human-behavior-with-ai](Exploring the Potential of Generative Agents: Simulating Human Behavior with AI)
+15. [Generative Agents](https://hackernoon.com/exploring-the-potential-of-generative-agents-simulating-human-behavior-with-ai)
 16. [Advances in the agent-based modeling of economic and social behavior](https://www.researchgate.net/publication/353069859_Advances_in_the_agent-based_modeling_of_economic_and_social_behavior)
 17. [An Introduction to ABM with NetLogo](https://www.intro-to-abm.com/index.html)
-18. [https://towardsdatascience.com/intro-to-agent-based-modeling-3eea6a070b72](Intro to Agent Based Modeling)
+18. [Intro to Agent Based Modeling]( https://towardsdatascience.com/intro-to-agent-based-modeling-3eea6a070b72 )
 19. [Quant Econ Lectures](https://quantecon.org/lectures/)
 
 ## Open Source
