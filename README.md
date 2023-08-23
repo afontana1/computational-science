@@ -74,6 +74,8 @@
 41. [awesome-complexity](https://github.com/jepemo/awesome-complexity) & [awesome-complexoty](https://github.com/sellisd/awesome-complexity)
 42. [awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology)
 43. [CS228_PGM](https://github.com/florist-notes/CS228_PGM)
+44. [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra)
+45. [awesome-control-theory](https://github.com/A-make/awesome-control-theory)
 
 ## Organizations
 - [Nico](https://www.nico.northwestern.edu/)

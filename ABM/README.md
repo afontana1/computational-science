@@ -19,6 +19,7 @@
 17. [An Introduction to ABM with NetLogo](https://www.intro-to-abm.com/index.html)
 18. [Intro to Agent Based Modeling]( https://towardsdatascience.com/intro-to-agent-based-modeling-3eea6a070b72 )
 19. [Quant Econ Lectures](https://quantecon.org/lectures/)
+20. [awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science)
 
 ## Open Source
 
@@ -48,6 +49,7 @@
 24. [discrete event simulator](https://github.com/holgerbrandl/kalasim)
 25. [rust agent based models](https://github.com/facorread/rust-agent-based-models)
 26. [Warteschlangensimulator](https://github.com/A-Herzog/Warteschlangensimulator)
+27. [generative-agents](https://github.com/mkturkcan/generative-agents)
 
 ## Videos
 
