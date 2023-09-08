@@ -1,8 +1,9 @@
 # Computational Science related material
 
 - [Google Site Reliabilty Engineering](https://sre.google/sre-book/table-of-contents/)
+- [Steve Brunton](https://www.eigensteve.com/)
 
-1. [Systems Science](http://systems-sciences.uni-graz.at/etextbook/)
+1. [Systems Science](https://web.archive.org/web/20221209041111/http://systems-sciences.uni-graz.at/etextbook/)
 2. [Scientific Modeling](https://en.wikipedia.org/wiki/Category:Scientific_modeling)
 3. [UML](https://en.wikipedia.org/wiki/Category:Unified_Modeling_Language)
 4. [Numerical Analysis](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/)
@@ -14,6 +15,11 @@
 	* [Course 1](https://www.stat.auckland.ac.nz/~fewster/325/index.php)
 	* [Course 2](https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/)
 	* [Course 3](https://www.ee.ryerson.ca/~courses/ee8103/)
+	* [Applied Stochastic Processes](https://sidbanerjee.orie.cornell.edu/courses/orie6500/)
+	* [Introduction to Stochastic Processes](https://ocw.mit.edu/courses/18-445-introduction-to-stochastic-processes-spring-2015/)
+	* [Probability and Stochastic Processes 1](https://www.utstat.utoronto.ca/mikevans/stac62/staC622021.html)
+	* [Stochastic_systems_courses](https://murray.cds.caltech.edu/Stochastic_systems_courses)
+	* [Probability and Stochastic Processes](https://ocw.metu.edu.tr/course/view.php?id=323)
 10. [Computational Science and Engineering](https://gitlab.math.ethz.ch/NumCSE/NumCSE)
 11. [Feedback Systems](http://www.cds.caltech.edu/~murray/amwiki/index.php/Main_Page)
 12. [Signals and Systems](https://pages.jh.edu/~bcooper8/sigma_files/courses/214/Signals_Home.html)
@@ -90,6 +96,8 @@
 - [Advanced Agent-Robotics Labs](https://www.cs.cmu.edu/~softagents/index.html)
 - [Network Science Institute](https://www.networkscienceinstitute.org/)
 - [New England Complex Systems Institute](https://necsi.edu/)
+- [UC Davis Complexity Science Center](https://csc.ucdavis.edu/Welcome.html)
+- [Complexity Project](https://thecomplexityproject.com/)
 
 ## Videos
 - [Systems Dynamics](https://www.youtube.com/user/UKSystemDynamics/featured)
@@ -129,6 +137,7 @@
 4. [Control_engineering](https://en.wikipedia.org/wiki/Category:Control_engineering)
 5. [Systems_science](https://en.wikipedia.org/wiki/Category:Systems_science)
 6. [Complex_systems_theory](https://en.wikipedia.org/wiki/Category:Complex_systems_theory)
+	- [Book: Introduction to the Modeling and Analysis of Complex Systems (Sayama)](https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Book%3A_Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama))
 7. [Systems_theory](https://en.wikipedia.org/wiki/Category:Systems_theory)
 8. [Multi-agent_systems](https://en.wikipedia.org/wiki/Category:Multi-agent_systems)
 	- [Agent Based Model](https://en.wikipedia.org/wiki/Agent-based_model)
@@ -150,6 +159,12 @@
 22. [Phase Space](https://en.wikipedia.org/wiki/Phase_space)
 23. [Dynamical Systems](https://en.wikipedia.org/wiki/Category:Dynamical_systems)
 	- [Time Reversibility](https://en.wikipedia.org/wiki/Time_reversibility)
+	- [Perturbation_theory](https://en.wikipedia.org/wiki/Perturbation_theory)
+	- [Attractor](https://en.wikipedia.org/wiki/Attractor)
+	- [Feedback](https://en.wikipedia.org/wiki/Feedback)
+	- [Chaos_theory](https://en.wikipedia.org/wiki/Chaos_theory)
+	- [Numerical Differential Equations](https://en.wikipedia.org/wiki/Category:Numerical_differential_equations)
+	- [Partial Differential Equations](https://en.wikipedia.org/wiki/Category:Partial_differential_equations)
 24. [Complex Systems](https://complexsystemstheory.net/complexity-explorer/)
 25. [Complex_adaptive_system](https://en.wikipedia.org/wiki/Complex_adaptive_system)
 26. [Conceptual_systems](https://en.wikipedia.org/wiki/Category:Conceptual_systems)
@@ -243,9 +258,11 @@
 64. [Power Law](https://en.wikipedia.org/wiki/Power_law)
 65. [Scale Invariance](https://en.wikipedia.org/wiki/Scale_invariance)
 66. [Cascading Failure](https://en.wikipedia.org/wiki/Cascading_failure)
+	* [Information Cascade](https://en.wikipedia.org/wiki/Information_cascade)
 67. [Thermodynamic Processes](https://en.wikipedia.org/wiki/Category:Thermodynamic_processes)
-68. [Numerical Differential Equations](https://en.wikipedia.org/wiki/Category:Numerical_differential_equations)
-69. [Partial Differential Equations](https://en.wikipedia.org/wiki/Category:Partial_differential_equations)
+68. [Thresholds and Tipping Points](http://www.complexity.soton.ac.uk/theory/_Thresholds_and_Tipping_Points.php)
+68. [Network Science](https://en.wikipedia.org/wiki/Category:Network_science)
+	* [Network_effect](https://en.wikipedia.org/wiki/Network_effect)
 
 ## Libraries
 1. [ndlib](https://github.com/GiulioRossetti/ndlib)
