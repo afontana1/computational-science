@@ -98,6 +98,8 @@
 - [New England Complex Systems Institute](https://necsi.edu/)
 - [UC Davis Complexity Science Center](https://csc.ucdavis.edu/Welcome.html)
 - [Complexity Project](https://thecomplexityproject.com/)
+- [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
+- [International Society for Computational Biology](https://www.iscb.org/index.php)
 
 ## Videos
 - [Systems Dynamics](https://www.youtube.com/user/UKSystemDynamics/featured)
