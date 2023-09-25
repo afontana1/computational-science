@@ -265,6 +265,16 @@
 68. [Thresholds and Tipping Points](http://www.complexity.soton.ac.uk/theory/_Thresholds_and_Tipping_Points.php)
 68. [Network Science](https://en.wikipedia.org/wiki/Category:Network_science)
 	* [Network_effect](https://en.wikipedia.org/wiki/Network_effect)
+69. [Scale_invariance](https://en.wikipedia.org/wiki/Scale_invariance)
+70. Systems Concepts
+	* [Causal Loops](https://thesystemsthinker.com/causal-loop-construction-the-basics/)
+	* [Viable Systems Model](https://en.wikipedia.org/wiki/Viable_system_model)
+	* [System_dynamics](https://en.wikipedia.org/wiki/System_dynamics)
+	* [Soft_systems_methodology](https://en.wikipedia.org/wiki/Soft_systems_methodology)
+	* [Strategic Options Development and Analysis (SODA)](https://www.ifm.eng.cam.ac.uk/research/dstools/soda/)
+	* [Design_thinking](https://en.wikipedia.org/wiki/Design_thinking)
+	* [Critical Systems Heuristics](https://projects.kmi.open.ac.uk/ecosensus/publications/ulrich_csh_intro.pdf)
+	* [Action_research](https://en.wikipedia.org/wiki/Action_research)
 
 ## Libraries
 1. [ndlib](https://github.com/GiulioRossetti/ndlib)
