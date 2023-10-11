@@ -2,6 +2,7 @@
 
 - [Google Site Reliabilty Engineering](https://sre.google/sre-book/table-of-contents/)
 - [Steve Brunton](https://www.eigensteve.com/)
+- [Stella Architect](https://www.iseesystems.com/store/products/stella-architect.aspx)
 
 1. [Systems Science](https://web.archive.org/web/20221209041111/http://systems-sciences.uni-graz.at/etextbook/)
 2. [Scientific Modeling](https://en.wikipedia.org/wiki/Category:Scientific_modeling)
