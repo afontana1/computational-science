@@ -33,6 +33,7 @@
 14. [Handbook of Engineering Statistics](https://www.itl.nist.gov/div898/handbook/index.htm)
 15. [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra)
 16. [awesome-control-theory](https://github.com/A-make/awesome-control-theory)
+17. [Unified Modeling Language](https://en.wikipedia.org/wiki/Category:Unified_Modeling_Language_diagrams) [Diagrams](https://en.wikipedia.org/wiki/Category:Diagrams) and [Scientific Modeling](https://en.wikipedia.org/wiki/Category:Scientific_modelling)
 
 ## Organizations
 - [Nico](https://www.nico.northwestern.edu/)
