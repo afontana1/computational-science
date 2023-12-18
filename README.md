@@ -111,4 +111,3 @@
 62. [Evolutionary Optimization](https://github.com/strongio/evolutionary-optimization)
 53. [Swarm Package](https://github.com/SISDevelop/SwarmPackagePy)
 54. [Paths and Temporal Networks](https://github.com/IngoScholtes/pathpy)
-55. [Monte Carlo Tree Search](https://github.com/masouduut94/MCTS-agent-python)
