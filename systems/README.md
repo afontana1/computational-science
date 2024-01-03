@@ -7,7 +7,7 @@
 - [Course in Complex Systems and Self Organization](http://web.eecs.utk.edu/~bmaclenn/Classes/420-594-F04/index.html)
 - [Course in Complex Systems](http://csc.ucdavis.edu/Courses.html)
 
-1. [Introduction to System Dynamics](https://ocw.mit.edu/courses/15-871-introduction-to-system-dynamics-fall-2013/)
+1. [Introduction to System Dynamics Class](https://ocw.mit.edu/courses/15-871-introduction-to-system-dynamics-fall-2013/)
 2. Systems Concepts
 	* [Causal Loops](https://thesystemsthinker.com/causal-loop-construction-the-basics/)
 	* [Viable Systems Model](https://en.wikipedia.org/wiki/Viable_system_model)
@@ -19,6 +19,8 @@
 	* [Action_research](https://en.wikipedia.org/wiki/Action_research)
 3. [System Dynamics](https://en.wikipedia.org/wiki/System_dynamics)
 	- [Self Study Guide](https://ocw.mit.edu/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/pages/readings/)
+	- [System Dynamics II](https://ocw.mit.edu/courses/15-872-system-dynamics-ii-fall-2013/)
+	- [System Dynamics and Modeling for a Complex World](https://ocw.mit.edu/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/)
 4. [Systems Science Textbook](https://web.archive.org/web/20221209041111/http://systems-sciences.uni-graz.at/etextbook/)
 5. [Systems_architecture](https://en.wikipedia.org/wiki/Category:Systems_architecture)
 6. [Systems_science](https://en.wikipedia.org/wiki/Portal:Systems_science)
