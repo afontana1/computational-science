@@ -19,6 +19,7 @@
 13. [Dynamic Optimization](https://apmonitor.com/do/index.php)
 14. [Handbook of Engineering Statistics](https://www.itl.nist.gov/div898/handbook/index.htm)
 15. [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra)
+16. [Computational Science And Engineering I](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/)
 
 ## Organizations
 - [Nico](https://www.nico.northwestern.edu/)
