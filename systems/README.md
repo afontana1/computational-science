@@ -70,6 +70,11 @@
 	* [Information Cascade](https://en.wikipedia.org/wiki/Information_cascade)
 32. [Irreversible Process](https://en.wikipedia.org/wiki/Irreversible_process)
 33. [awesome-complexity](https://github.com/jepemo/awesome-complexity) & [awesome-complexity](https://github.com/sellisd/awesome-complexity)
+34. [Signal_processing](https://en.wikipedia.org/wiki/Category:Signal_processing)
+	* [Introduction To Electrical Engineering And Computer Science I](https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
+	* [Signals and Systems 6-007](https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/)
+	* [Signals and Systems 6-003](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/)
+	* [Signals Systems and Inference](https://ocw.mit.edu/courses/6-011-signals-systems-and-inference-spring-2018/)
 
 
 ## Videos
