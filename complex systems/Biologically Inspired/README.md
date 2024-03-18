@@ -33,4 +33,6 @@
 	- [Biological Interactions](https://en.wikipedia.org/wiki/Category:Biological_interactions)
 	- [Evolutionarily significant biological phenomena](https://en.wikipedia.org/wiki/Category:Evolutionarily_significant_biological_phenomena)
 	- [Symbiosis](https://en.wikipedia.org/wiki/Category:Symbiosis)
+	- [Evolutionary_developmental_biology](https://en.wikipedia.org/wiki/Evolutionary_developmental_biology)
+	- [Evolvability](https://en.wikipedia.org/wiki/Evolvability)
 4. [Introduction to Neural Computation](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/)
