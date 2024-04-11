@@ -21,6 +21,22 @@
 15. [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra)
 16. [Computational Science And Engineering I](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/)
 
+## Related Concepts
+
+- [Mathematical Modeling](https://en.wikipedia.org/wiki/Category:Mathematical_modeling)
+- [Engineering Portal](https://en.m.wikipedia.org/wiki/Portal:Engineering)
+
+1. [Applied mathematics](https://en.wikipedia.org/wiki/Category:Applied_mathematics)
+2. [Computational Complexity Theory](https://en.wikipedia.org/wiki/Category:Computational_complexity_theory)
+3. [Computability Theory](https://en.wikipedia.org/wiki/Category:Computability_theory)
+4. [Theory of Computation](https://en.wikipedia.org/wiki/Category:Theory_of_computation)
+5. [Computational problems](https://en.wikipedia.org/wiki/Category:Computational_problems)
+6. [List of Complexity Classes](https://en.wikipedia.org/wiki/List_of_complexity_classes)
+7. [Algorithms](https://en.wikipedia.org/wiki/Category:Algorithms)
+8. [Approximation Theory](https://en.wikipedia.org/wiki/Category:Approximation_theory)
+9. [Approximation Algorithms](https://en.wikipedia.org/wiki/Category:Approximation_algorithms)
+10. [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
+
 ## Organizations
 - [Nico](https://www.nico.northwestern.edu/)
 - [North Western](https://www.mccormick.northwestern.edu/applied-math/research/areas/complex-systems.html)
