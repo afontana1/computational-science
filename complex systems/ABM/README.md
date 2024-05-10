@@ -82,3 +82,4 @@
 27. [Everything you need to Know bout Control Theory](https://www.youtube.com/watch?v=lBC1nEq0_nk)
 28. [Generative Agents: Interactive Simulacra of Human Behavior](https://www.youtube.com/watch?v=xWnhHu5MibY&t=912s)
 29. [Generative Agents - Deep Dive and GPT-4 Recreation](https://www.youtube.com/watch?v=44TH6uKlNC4)
+30. [Agent-Based Modeling](https://youtube.com/playlist?list=PLF0b3ThojznRKYcrw8moYMUUJK2Ra8Hwl&si=UhqaQCPZHR0A7DvU)
