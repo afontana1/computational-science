@@ -22,6 +22,8 @@
 	* [Enterprise Modeling](https://en.wikipedia.org/wiki/Category:Enterprise_modelling)
 8. [Control_theory](https://en.wikipedia.org/wiki/Category:Control_theory)
 9. [Control_engineering](https://en.wikipedia.org/wiki/Category:Control_engineering)
+	* [Optimal Control](https://en.wikipedia.org/wiki/Optimal_control)
+	* [Adaptive Control](https://en.wikipedia.org/wiki/Adaptive_control)
 10. [Unified Modeling Language](https://en.wikipedia.org/wiki/Category:Unified_Modeling_Language_diagrams) [Diagrams](https://en.wikipedia.org/wiki/Category:Diagrams) and [Scientific Modeling](https://en.wikipedia.org/wiki/Category:Scientific_modelling)
 11. [Irreversible Process](https://en.wikipedia.org/wiki/Irreversible_process)
 12. [Systems_theory](https://en.wikipedia.org/wiki/Category:Systems_theory)

@@ -114,6 +114,9 @@
 8. [Approximation Theory](https://en.wikipedia.org/wiki/Category:Approximation_theory)
 9. [Approximation Algorithms](https://en.wikipedia.org/wiki/Category:Approximation_algorithms)
 10. [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
+11. [Artificial Neural Networks](https://en.wikipedia.org/wiki/Category:Artificial_neural_networks)
+12. [Neural Network Architectures](https://en.wikipedia.org/wiki/Category:Neural_network_architectures)
+13. [Types of Neural Networks](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
 
 </details>
 
