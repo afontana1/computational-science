@@ -117,6 +117,8 @@
 11. [Artificial Neural Networks](https://en.wikipedia.org/wiki/Category:Artificial_neural_networks)
 12. [Neural Network Architectures](https://en.wikipedia.org/wiki/Category:Neural_network_architectures)
 13. [Types of Neural Networks](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
+14. [Combinatorial algorithms](https://en.wikipedia.org/wiki/Category:Combinatorial_algorithms)
+15. [Data structures](https://en.wikipedia.org/wiki/Category:Data_structures)
 
 </details>
 

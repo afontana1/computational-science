@@ -30,6 +30,41 @@
 12. [Optimal Stopping](https://en.wikipedia.org/wiki/Optimal_stopping)
 13. [Scientific Computing with Python](https://caam37830.github.io/book/index.html)
 
+## Videos
+
+### Algorithms
+
+1. [COMP 285: Analysis of Algorithms Lectures](https://youtube.com/playlist?list=PL0KKKLEqGOyJR1-dEOKq9QRdCMX0Ho8hu&si=nIVKuZyI9SfYrnJK)
+2. [MIT 6.006 Introduction to Algorithms, Spring 2020](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&si=VnwRXl0m1Bnc7cM7)
+
+### Game Theory Introduction
+
+1. [Game Theory 1: Introduction to Game Theory](https://youtube.com/playlist?list=PLcrc6i6xwaQQGOK095_Im781aFOQ1BFix&si=-S1JOc9k5NzMzcX8)
+2. [Game Theory 2 (Basic Solution Concepts and Applications): Strategic Dominance, Best Response, Rationalizability](https://youtube.com/playlist?list=PLcrc6i6xwaQQGTAVXv25E3KP-cU5J9zLV&si=U9bJfJKAFwKPyLtK)
+3. [Game Theory 3: Nash Equilibrium](https://youtube.com/playlist?list=PLcrc6i6xwaQTbWV-ayb4lky14yR6VqtAQ&si=2fTBXzQZ7Q9cFj_S)
+4. [Game Theory 4: Mixed Strategy Nash Equilibrium](https://youtube.com/playlist?list=PLcrc6i6xwaQQAbAPvrhpFsKPvcx_3sF-q&si=4NBWK_P6D0IQtOZh)
+5. [Game Theory 5: Contracts](https://youtube.com/playlist?list=PLcrc6i6xwaQQqoZarpUJW2G3lfLFMan1U&si=gVsenNZi434OA7iG)
+6. [Game Theory 6: Extensive Form Games with Perfect Information and Subgame Perfect Nash Equilibrium (SPNE)](https://youtube.com/playlist?list=PLcrc6i6xwaQTZI1YXJj4q_ndfEzMaPOZf&si=VIPiOTaUgn8csRH7)
+7. [Game Theory 7: Extensive Form Games with Imperfect Information and Subgame Perfect Nash Equilibrium](https://youtube.com/playlist?list=PLcrc6i6xwaQRU-5Q_zRTu6GCiQSaKWJ-1&si=7Ipy5wblWz6YdNkh)
+8. [Game Theory 8: Introduction to Repeated Games](https://youtube.com/playlist?list=PLcrc6i6xwaQSbYxbSoY2JINrz5kb7-fGp&si=PgRrhwEJkpKqVmDW)
+9. [Game Theory 9: Bayesian Nash Equilibrium](https://youtube.com/playlist?list=PLcrc6i6xwaQT6eIKWHkTXWz9zSFDpkTZm&si=tZR65hOB8VQmw6_R)
+10. [Game Theory 10: Perfect Bayesian Nash Equilibrium](https://youtube.com/playlist?list=PLcrc6i6xwaQRP-e4fCBAnOmkbn860TX1_&si=xgdikJz5bogmoqs0)
+11. [Game Theory 11: Principal Agent Models](https://youtube.com/playlist?list=PLcrc6i6xwaQRa1ZsTG5-7a1AUltDvo-wS&si=hUkng59Gev0iz0pO)
+
+### Game Theory Advanced
+
+1. [Advanced Game Theory 1: Strategic Form Games with Complete Information](https://youtube.com/playlist?list=PLcrc6i6xwaQRyvwICKDdh8zmvmXBcNaYg&si=tEFpubKV6cEiS9le)
+2. [Advanced Game Theory 2: Extensive Form Games](https://youtube.com/playlist?list=PLcrc6i6xwaQTlpwcoyC0m52oCPsWnAQ0t&si=TxobTXCGN7y19P9s)
+3. [Advanced Game Theory 3: Solving Extensive Form Games and Their Applications](https://youtube.com/playlist?list=PLcrc6i6xwaQSY7I2-UZxcQt_SodDN-L2r&si=n6MM5JGeu1WjvuQr)
+4. [Advanced Game Theory 4: Introduction to Cooperative Game Theory and Its Solution Concepts](https://youtube.com/playlist?list=PLcrc6i6xwaQSw8553tgt1p8XOMFEdQCbl&si=bCzz0NMDWhaxLGOz)
+5. [Advanced Game Theory 5: Cooperative (Nash) Bargaining Problem](https://youtube.com/playlist?list=PLcrc6i6xwaQRcbvlbqNS94dRnF-UH1AZw&si=0NtLe5IMgtYSq_rB)
+6. [Advanced Game Theory 6: Bankruptcy Problem](https://youtube.com/playlist?list=PLcrc6i6xwaQQo2li8WHSWiDnSnYaAH-g5&si=5dJjKYS-ma8e4VGA)
+7. [Advanced Game Theory 7: Matching Theory](https://youtube.com/playlist?list=PLcrc6i6xwaQTmyz-hqitTB2WUI6eZiMIg&si=h3NyqBJwhDxMrJ1F)
+8. [Advanced Game Theory 8: Voting](https://youtube.com/playlist?list=PLcrc6i6xwaQTw1cDHdu8iEjo8nuYJG245&si=983gnsVsHCt03Bbw)
+9. [Advanced Game Theory 9: Bayesian Games](https://youtube.com/playlist?list=PLcrc6i6xwaQSqqMfgqSYKITGV4i6RK9WI&si=_L6j19cDCxmUu5nO)
+10. [Advanced Game Theory 10: Auction Theory](https://youtube.com/playlist?list=PLcrc6i6xwaQT52YtKdIpdARVZ4BTFOrQP&si=ovYw4PqVAEa2U75B)
+11. [Advanced Game Theory 11: Mechanism Design](https://youtube.com/playlist?list=PLcrc6i6xwaQQWi7prJYkI9SoRzDXEV01X&si=KjVqLrpZFe8eXMz4)
+
 ## Github Resources
 
 1. [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co)

@@ -58,3 +58,12 @@
 - [Control Systems](https://www.youtube.com/user/ControlLectures)
 - [Association for Computing Machinery (ACM)](https://www.youtube.com/user/TheOfficialACM)
 - [Data Driven Dynamical Systems](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR6DzT17-MM1GHLkuYVjhyt)
+
+## Libraries
+
+1. [pyaec](https://github.com/ewan-xu/pyaec)
+2. [kalman-filter](https://github.com/zziz/kalman-filter)
+3. [SLAM_AND_PATH_PLANNING_ALGORITHMS](https://github.com/jfrascon/SLAM_AND_PATH_PLANNING_ALGORITHMS)
+4. [DA-tutorials](https://github.com/nansencenter/DA-tutorials)
+5. [btrack](https://github.com/quantumjot/btrack)
+6. [rednose](https://github.com/commaai/rednose)
