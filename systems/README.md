@@ -18,8 +18,6 @@
 5. [Systems Architecture](https://en.wikipedia.org/wiki/Category:Systems_architecture)
 6. [Systems Science](https://en.wikipedia.org/wiki/Portal:Systems_science)
 7. [Systems_engineering](https://en.wikipedia.org/wiki/Category:Systems_engineering)
-	* [Enterprise Architecture](https://en.wikipedia.org/wiki/Category:Enterprise_architecture)
-	* [Enterprise Modeling](https://en.wikipedia.org/wiki/Category:Enterprise_modelling)
 8. [Control_theory](https://en.wikipedia.org/wiki/Category:Control_theory)
 9. [Control_engineering](https://en.wikipedia.org/wiki/Category:Control_engineering)
 	* [Optimal Control](https://en.wikipedia.org/wiki/Optimal_control)
@@ -39,7 +37,9 @@
 	* [Signals and Systems 6-003](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/)
 	* [Signals Systems and Inference](https://ocw.mit.edu/courses/6-011-signals-systems-and-inference-spring-2018/)
 17. [Industrial Engineering](https://en.wikipedia.org/wiki/Category:Industrial_engineering)
-
+18. [Enterprise_modelling](https://en.wikipedia.org/wiki/Category:Enterprise_modelling)
+	* [Enterprise Architecture](https://en.wikipedia.org/wiki/Category:Enterprise_architecture)
+	* [Enterprise_architecture_frameworks](https://en.wikipedia.org/wiki/Category:Enterprise_architecture_frameworks)
 
 ## Videos
 
