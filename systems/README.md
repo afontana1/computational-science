@@ -1,5 +1,7 @@
 # Resources
 
+- [List of Systems Scientists](https://en.wikipedia.org/wiki/List_of_systems_scientists)
+
 1. [Introduction to System Dynamics Class](https://ocw.mit.edu/courses/15-871-introduction-to-system-dynamics-fall-2013/)
 2. Systems Concepts
 	* [Causal Loops](https://thesystemsthinker.com/causal-loop-construction-the-basics/)
