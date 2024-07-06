@@ -48,6 +48,27 @@
 	* [Enterprise_architecture_frameworks](https://en.wikipedia.org/wiki/Category:Enterprise_architecture_frameworks)
 19. [HSMA Program](https://github.com/hsma-programme) & [hsma3 github](https://github.com/hsma-chief-elf/hsma3) & [HSMA4](https://github.com/hsma4)
 
+
+## Physical Systems
+
+1. [Statistical Mechanics](https://web.stanford.edu/~peastman/statmech/)
+	* [Lecture Series](https://www.youtube.com/playlist?list=PLXLSbKIMm0kjxyp45FIY62XNgHk4ywSaH) from [Stanford](https://www.youtube.com/playlist?list=PLB72416C707D85AB0)
+2. [Phase Space](https://en.wikipedia.org/wiki/Phase_space)
+3. [Dynamical Systems](https://en.wikipedia.org/wiki/Category:Dynamical_systems)
+	- [Time Reversibility](https://en.wikipedia.org/wiki/Time_reversibility)
+	- [Perturbation_theory](https://en.wikipedia.org/wiki/Perturbation_theory)
+	- [Attractor](https://en.wikipedia.org/wiki/Attractor)
+	- [Feedback](https://en.wikipedia.org/wiki/Feedback)
+	- [Chaos_theory](https://en.wikipedia.org/wiki/Chaos_theory)
+	- [Numerical Differential Equations](https://en.wikipedia.org/wiki/Category:Numerical_differential_equations)
+	- [Partial Differential Equations](https://en.wikipedia.org/wiki/Category:Partial_differential_equations)
+	- [Non Linear Systems](https://en.wikipedia.org/wiki/Category:Nonlinear_systems)
+4. [Stochastic_models](https://en.wikipedia.org/wiki/Category:Stochastic_models)
+5. [Probabilistic_models](https://en.wikipedia.org/wiki/Category:Probabilistic_models)
+6. [Phase Transition](https://en.wikipedia.org/wiki/Phase_transition)
+7. [Turbulence](https://en.wikipedia.org/wiki/Turbulence)
+8. [Thermodynamic Processes](https://en.wikipedia.org/wiki/Category:Thermodynamic_processes)
+
 ## Videos
 
 - [Systems Dynamics](https://www.youtube.com/playlist?list=PL3GIR6MEeDiMeXvc7VRfpTBN8Oy5OMbUA)
@@ -85,3 +106,32 @@
 4. [DA-tutorials](https://github.com/nansencenter/DA-tutorials)
 5. [btrack](https://github.com/quantumjot/btrack)
 6. [rednose](https://github.com/commaai/rednose)
+
+
+## Core Math
+
+1. [Intro to Numerical Methods](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/)
+2. [Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
+3. [Numerical Analysis](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/)
+4. [Signals and Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/)
+5. [Essential Numerical Methods](https://ocw.mit.edu/courses/22-15-essential-numerical-methods-fall-2014/)
+6. [Engineering Math: Differential Equations and Dynamical Systems](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)
+7. [Differential Equations](https://youtube.com/playlist?list=PLC4YBo93SnyglJxoACLRbpKdrupQOQG22&si=j995AFDSp_fn-Hjc)
+
+## Classes
+
+1. [Differential Calculus through Data and Modeling Specialization](https://www.coursera.org/specializations/differential-calculus-data-modeling)
+2. [Integral Calculus through Data and Modeling Specialization](https://www.coursera.org/specializations/integral-calculus-data-modeling)
+3. [Differential Equations Part I Basic Theory](https://www.coursera.org/learn/ordinary-differential-equations)
+4. [Differential Equations Part II Series Solutions](https://www.coursera.org/learn/introduction-to-ordinary-differential-equations-part-2)
+5. [Differential Equations Part III Systems of Equations](https://www.coursera.org/learn/differential-equations-part-iii-systems-of-equations)
+6. [Mathematics for Engineers Specialization](https://www.coursera.org/specializations/mathematics-engineers)
+
+## Applications
+
+1. [Infectious Disease Modelling Specialization](https://www.coursera.org/specializations/infectious-disease-modelling)
+2. [Systems Biology and Biotechnology Specialization](https://www.coursera.org/specializations/systems-biology)
+3. [Simulation and modeling of natural processes](https://www.coursera.org/learn/modeling-simulation-natural-processes)
+5. [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
+6. [GeorgetownX: Mathematical and Computational Methods](https://www.edx.org/learn/math/georgetown-university-mathematical-and-computational-methods?webview=false&campaign=Mathematical+and+Computational+Methods&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fdifferential-equations)
+7. [EPFLx: Introduction to Discrete Choice Models](https://www.edx.org/learn/discrete-mathematics/ecole-polytechnique-federale-de-lausanne-introduction-to-discrete-choice-models?webview=false&campaign=Introduction+to+Discrete+Choice+Models&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fmathematical-modeling)
