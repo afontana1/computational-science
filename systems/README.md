@@ -106,6 +106,8 @@
 4. [DA-tutorials](https://github.com/nansencenter/DA-tutorials)
 5. [btrack](https://github.com/quantumjot/btrack)
 6. [rednose](https://github.com/commaai/rednose)
+7. [python system dynamics](https://github.com/JamesPHoughton/pysd)
+8. [Awesome Interaction-aware Behavior and Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
 
 
 ## Core Math
