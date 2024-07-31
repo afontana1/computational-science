@@ -9,6 +9,7 @@
 - [awesome-complexity](https://github.com/jepemo/awesome-complexity) & [awesome-complexity](https://github.com/sellisd/awesome-complexity)
 - [Complexity Explorer](https://www.complexityexplorer.org/)
 - [David Snowden Cynefin](https://thecynefin.co/team/dave-snowden/)
+- [LSA Complex Systems](https://lsa.umich.edu/cscs)
 
 1. [Complex_systems_theory](https://en.wikipedia.org/wiki/Category:Complex_systems_theory)
 	- [Book: Introduction to the Modeling and Analysis of Complex Systems (Sayama)](https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Book%3A_Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama))

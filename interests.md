@@ -33,6 +33,7 @@
     * [Computational Social Dynamics](https://picsolab.github.io/)
     * [Computational Social Science Lab](https://dgarcia.eu/)
     * [Harry Crane](https://www.harrycrane.com/)
+    * [Cole Mathis](https://colemathis.github.io/)
 4. [Swarm Engineering](https://hauertlab.com/) [Sabine Hauert](https://hauertlab.com/sabine-hauert/)
     * [Radhika Nagpal](https://www.radhikanagpal.org/) at [SSR Princeton](https://ssr.princeton.edu/)
     * [MIT Center for Bits and Atoms](http://cba.mit.edu/)

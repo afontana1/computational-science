@@ -3,6 +3,7 @@
 ## General Resources
 
 - [Steve Brunton](https://www.eigensteve.com/)
+- [Modeling Languages](https://modeling-languages.com/)
 
 1. [Computational Science and Engineering](https://gitlab.math.ethz.ch/NumCSE/NumCSE)
 2. [Feedback Systems](http://www.cds.caltech.edu/~murray/amwiki/index.php/Main_Page)
