@@ -21,6 +21,7 @@
 14. [Handbook of Engineering Statistics](https://www.itl.nist.gov/div898/handbook/index.htm)
 15. [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra)
 16. [Computational Science And Engineering I](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/)
+17. [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm)
 
 <details><summary><h2>Software Engineering Resources</h2></summary>
 
