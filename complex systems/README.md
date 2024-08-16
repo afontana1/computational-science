@@ -44,3 +44,11 @@
 	* [CS 224W](https://snap-stanford.github.io/cs224w-notes/)
 	* [Network Science Course](https://www.youtube.com/playlist?list=PLriUvS7IljvkGesFRuYjqRz4lKgodJgh2)
 	* [Complex Network: Theory and Application](https://www.youtube.com/playlist?list=PL6awLjcQvnYB8YSTKCFe1VDQlgKPFujW1)
+
+## Repositories
+
+1. [CAS-503-Collectives](https://github.com/bcdaniels/CAS-503-Collectives)
+2. [CAS-570-Fundamentals-of-CAS](https://github.com/bcdaniels/CAS-570-Fundamentals-of-CAS)
+3. [CAS-523-Stats-and-Dim-Red](https://github.com/bcdaniels/CAS-523-Stats-and-Dim-Red)
+4. [AttAttach](https://github.com/Collective-Logic-Lab/AttAttach)
+5. [honey-bee-behavior](https://github.com/Collective-Logic-Lab/honey-bee-behavior)
