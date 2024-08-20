@@ -6,6 +6,7 @@
 - [Guide to the Systems Engineering Body of Knowledge (SEBoK)](https://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK))
 - [Systems Engineering Theory and Practice](https://www.youtube.com/playlist?list=PL_bA20lRoKDHuNg1lJkJ75ZEsynNdY_ww)
 - [ESMD Course Material : Fundamentals of Lunar and Systems Engineering for Senior Project Teams, with Application to a Lunar Excavator](https://www.eng.auburn.edu/~dbeale/ESMDCourse/index.htm)
+- [International Institute for Applied Systems Analysis](https://iiasa.ac.at/)
 
 ## Core Concepts
 
