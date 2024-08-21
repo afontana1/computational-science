@@ -18,6 +18,7 @@
 	- [System Dynamics and Modeling for a Complex World](https://ocw.mit.edu/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/)
 4. [Systems Science Textbook](https://web.archive.org/web/20221209041111/http://systems-sciences.uni-graz.at/etextbook/)
 5. [Systems Architecture](https://en.wikipedia.org/wiki/Category:Systems_architecture)
+	* [System Archetype](https://en.wikipedia.org/wiki/System_archetype)
 6. [Systems Science](https://en.wikipedia.org/wiki/Portal:Systems_science)
 7. [Systems_engineering](https://en.wikipedia.org/wiki/Category:Systems_engineering)
 8. [Control_theory](https://en.wikipedia.org/wiki/Category:Control_theory)
