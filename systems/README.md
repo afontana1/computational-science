@@ -16,6 +16,7 @@
 	- [Self Study Guide](https://ocw.mit.edu/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/pages/readings/)
 	- [System Dynamics II](https://ocw.mit.edu/courses/15-872-system-dynamics-ii-fall-2013/)
 	- [System Dynamics and Modeling for a Complex World](https://ocw.mit.edu/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/)
+	- [System Dynamics Software](https://en.wikipedia.org/wiki/Comparison_of_system_dynamics_software)
 4. [Systems Science Textbook](https://web.archive.org/web/20221209041111/http://systems-sciences.uni-graz.at/etextbook/)
 5. [Systems Architecture](https://en.wikipedia.org/wiki/Category:Systems_architecture)
 	* [System Archetype](https://en.wikipedia.org/wiki/System_archetype)

@@ -21,6 +21,23 @@
 19. [Quant Econ Lectures](https://quantecon.org/lectures/)
 20. [awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science)
 
+## Resources
+
+1. [Computational Economics](http://www2.econ.iastate.edu/tesfatsi/ace.htm)
+2. [Introduction to Computational Economics](https://www2.cs.duke.edu/courses/fall07/cps196.2/)
+3. [Quantitative Economics](https://quantecon.org/lectures/)
+4. [Algorithmic Game Theory](https://www.cis.upenn.edu/~aaroth/courses/agtS20.html)
+5. [Tim Roughgarden Lectures](http://timroughgarden.org/f13/f13.html)
+6. [Topics in Algorithmic Game Theory](http://people.csail.mit.edu/costis/6853fa2011/)
+7. [Discrete Choice and Simulation](https://eml.berkeley.edu/books/choice2.html)
+8. [Foundations of Computational Economics](https://fedor.iskh.me/compecon-video)
+9. [Notebook Gallery](https://notebook.community/)
+10. [Computational Economics Models](https://juejung.github.io/jdocs/Comp/html/index.html#)
+11. [Agent Based Modeling Introduction](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/abmread.htm)
+12. [Agent Based Computational Economics](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/ace.htm)
+13. [Repast: A Software Toolkit for Agent-Based Social Science Modeling](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/repastsg.htm)
+14. [A Completely Agent-Based Modeling Approach to the Study of Economic Systems](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/ace.htm)
+
 ## Open Source
 
 1. [Proton-T](https://github.com/LABSS/PROTON-T)
