@@ -1,4 +1,4 @@
-# Introduction to Systems Engineering Specialization
+# [Introduction to Systems Engineering Specialization](https://www.coursera.org/specializations/introduction-systems-engineering)
 
 - [INCOSE](https://sdincose.org/)
 - [IEEE Systems Council](https://ieeesystemscouncil.org/)
