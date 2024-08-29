@@ -2,6 +2,8 @@
 
 ## [Operations Research](https://en.wikipedia.org/wiki/Category:Operations_research)
 
+- [Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematical_optimization)
+
 1. [Markov_models](https://en.wikipedia.org/wiki/Category:Markov_models)
 2. [Markov_processes](https://en.wikipedia.org/wiki/Category:Markov_processes)
 3. [Stochastic_processes](https://en.wikipedia.org/wiki/Category:Stochastic_processes)
