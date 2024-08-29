@@ -4,6 +4,7 @@
 
 - [Steve Brunton](https://www.eigensteve.com/)
 - [Modeling Languages](https://modeling-languages.com/)
+- [Potsdam Earth System Analysis](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/rd1-earth-system-analysis)
 
 1. [Computational Science and Engineering](https://gitlab.math.ethz.ch/NumCSE/NumCSE)
 2. [Feedback Systems](http://www.cds.caltech.edu/~murray/amwiki/index.php/Main_Page)
