@@ -67,22 +67,6 @@
 
 </details>
 
-<details><summary><h2> Organizations </h2></summary>
-
-- [International Council on Systems Engineering](https://www.incose.org/)
-- [International Institute for Applied Systems Analysis](https://iiasa.ac.at/)
-- [Nico](https://www.nico.northwestern.edu/)
-- [North Western](https://www.mccormick.northwestern.edu/applied-math/research/areas/complex-systems.html)
-- [Colorado](https://www.colorado.edu/cs/research/complex-systems)
-- [International Institute for Applied Systems Analysis](https://iiasa.ac.at/)
-- [Study CAS](http://studycas.com/)
-- [Swarm Lab](https://www.theswarmlab.com/)
-- [Multi Agent Systems Lab](http://www.cs.cmu.edu/~softagents/)
-- [Wilke Lab](https://wilkelab.org/)
-- [Advanced Agent-Robotics Labs](https://www.cs.cmu.edu/~softagents/index.html)
-
-</details>
-
 <details><summary><h2> Libraries </h2></summary>
 
 1. [ndlib](https://github.com/GiulioRossetti/ndlib)
