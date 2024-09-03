@@ -31,6 +31,8 @@
 11. [Information Theory](https://en.wikipedia.org/wiki/Category:Information_theory)
 12. [Optimal Stopping](https://en.wikipedia.org/wiki/Optimal_stopping)
 13. [Scientific Computing with Python](https://caam37830.github.io/book/index.html)
+14. [Actuarial Science](https://en.wikipedia.org/wiki/Category:Actuarial_science)
+	* [Outline of Actuarial Science](https://en.wikipedia.org/wiki/Outline_of_actuarial_science)
 
 ## Videos
 
