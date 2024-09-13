@@ -50,6 +50,7 @@
 13. [Types of Neural Networks](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
 14. [Combinatorial algorithms](https://en.wikipedia.org/wiki/Category:Combinatorial_algorithms)
 15. [Data structures](https://en.wikipedia.org/wiki/Category:Data_structures)
+16. [Theoretical Computer Science](https://en.wikipedia.org/wiki/Theoretical_computer_science)
 
 ### Relevant CS Clases
 
