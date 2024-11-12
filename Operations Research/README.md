@@ -33,6 +33,7 @@
 13. [Scientific Computing with Python](https://caam37830.github.io/book/index.html)
 14. [Actuarial Science](https://en.wikipedia.org/wiki/Category:Actuarial_science)
 	* [Outline of Actuarial Science](https://en.wikipedia.org/wiki/Outline_of_actuarial_science)
+15. [Bellman Equation](https://en.wikipedia.org/wiki/Bellman_equation)
 
 ## Videos
 
