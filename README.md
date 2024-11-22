@@ -54,6 +54,8 @@
 
 ### Relevant CS Clases
 
+- [Tim Roughgarden Lectures](https://www.youtube.com/@timroughgardenlectures1861)
+
 1. [Foundations of Computer Science University of Toronto](https://www.teach.cs.toronto.edu/~csc110y/fall/notes/)
 2. [Introduction to Computer Science](https://introcs.cs.princeton.edu/java/home/)
 3. [Algorithm Design Manual](https://algorist.com/)
