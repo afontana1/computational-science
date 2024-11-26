@@ -52,9 +52,10 @@
 15. [Data structures](https://en.wikipedia.org/wiki/Category:Data_structures)
 16. [Theoretical Computer Science](https://en.wikipedia.org/wiki/Theoretical_computer_science)
 
-### Relevant CS Clases
+### Relevant CS Classes
 
 - [Tim Roughgarden Lectures](https://www.youtube.com/@timroughgardenlectures1861)
+- [Stanford Computer Science Course Graph](http://coursegra.ph/)
 
 1. [Foundations of Computer Science University of Toronto](https://www.teach.cs.toronto.edu/~csc110y/fall/notes/)
 2. [Introduction to Computer Science](https://introcs.cs.princeton.edu/java/home/)
@@ -67,6 +68,12 @@
 9. [MIT 6.006 Introduction to Algorithms, Spring 2020](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&si=L5G87z-mKMQXis2_)
 10. [Computational Thinking](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 11. [How To Design Programs](https://htdp.org/2023-8-14/Book/index.html)
+12. [Discrete Math (Full Course: Sets, Logic, Proofs, Probability, Graph Theory, etc)](https://youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS&si=Cscm49BSOVLx_xsI)
+13. [Computational Complexity - NPTEL](https://youtube.com/playlist?list=PLTIwKoi6CMUc-zTCIbdGX52DoxaAWcNsM&si=MP3BUQKI-EQyJ44I)
+14. [MIT 18.404J Theory of Computation, Fall 2020](https://youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY&si=x6lA9rpdgHU5yuG4)
+15. [Undergrad Complexity Theory at CMU](https://youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2&si=WqkP7mDDCfUMY9Hs)
+16. [Complexity Theory I - Easy Theory](https://youtube.com/playlist?list=PLylTVsqZiRXOpSWvkeuFoj-qzuF3xDiAs&si=GMk94l0uYeOXQ2D8)
+17. [Computational Complexity Lectures](https://youtube.com/playlist?list=PLdUzuimxVcC0DENcdT8mfhI3iRRJLVjqH&si=QzuWmMEfe8na4lm3)
 
 </details>
 
