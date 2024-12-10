@@ -2,7 +2,10 @@
 
 ## [Operations Research](https://en.wikipedia.org/wiki/Category:Operations_research)
 
+- [Cornell University Computational Optimization Open Textbook](https://optimization.cbe.cornell.edu/index.php?title=Main_Page)
 - [Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematical_optimization)
+- [Google OR Tools](https://developers.google.com/optimization)
+- [MOSEK Modeling Cookbook](https://docs.mosek.com/modeling-cookbook/index.html#)
 
 1. [Markov_models](https://en.wikipedia.org/wiki/Category:Markov_models)
 2. [Markov_processes](https://en.wikipedia.org/wiki/Category:Markov_processes)
@@ -34,6 +37,15 @@
 14. [Actuarial Science](https://en.wikipedia.org/wiki/Category:Actuarial_science)
 	* [Outline of Actuarial Science](https://en.wikipedia.org/wiki/Outline_of_actuarial_science)
 15. [Bellman Equation](https://en.wikipedia.org/wiki/Bellman_equation)
+16. [Analysis_of_algorithms](https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms)
+17. [Combinatorial_optimization](https://en.wikipedia.org/wiki/Category:Combinatorial_optimization)
+18. [Linear_programming](https://en.wikipedia.org/wiki/Category:Linear_programming)
+19. [Branch_and_cut](https://en.wikipedia.org/wiki/Branch_and_cut)
+20. [Branch_and_bound](https://en.wikipedia.org/wiki/Branch_and_bound)
+
+## Courses
+
+1. [Optimization Methods in Management Science](https://ocw.mit.edu/courses/15-053-optimization-methods-in-management-science-spring-2013/)
 
 ## Videos
 
