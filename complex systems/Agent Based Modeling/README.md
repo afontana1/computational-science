@@ -1,25 +1,30 @@
 # Agent Based Modeling Resources
 
+## Concepts
+
 1. [Evolutionary Game Theory](https://github.com/rmcelreath/VLEGT)
 2. [ABM in Economics](https://en.wikipedia.org/wiki/Agent-based_model#In_economics_and_social_sciences)
-3. [Multi Agent System](https://en.wikipedia.org/wiki/Multi-agent_system)
-4. [Economic Emergence](https://www.sciencedirect.com/science/article/abs/pii/S0167268111002368)
-5. [DSGE Models](https://en.wikipedia.org/wiki/Dynamic_stochastic_general_equilibrium)
-6. [Economics in Nouns and Verbs](https://arxiv.org/abs/2104.01868)
-7. [Representative Agents](https://en.wikipedia.org/wiki/Representative_agent)
-8. [Rational Expectations](https://en.wikipedia.org/wiki/Rational_expectations)
-9. [Lucas Critique](https://en.wikipedia.org/wiki/Lucas_critique)
-10. [Financial Contagion](https://en.wikipedia.org/wiki/Financial_contagion)
-11. [Simulacra and Simulation](https://en.wikipedia.org/wiki/Simulacra_and_Simulation)
-12. [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
-13. [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/)
-14. [Paper Review: Generative Agents: Interactive Simulacra of Human Behavior](https://artgor.medium.com/paper-review-generative-agents-interactive-simulacra-of-human-behavior-cc5f8294b4ac)
-15. [Generative Agents](https://hackernoon.com/exploring-the-potential-of-generative-agents-simulating-human-behavior-with-ai)
-16. [Advances in the agent-based modeling of economic and social behavior](https://www.researchgate.net/publication/353069859_Advances_in_the_agent-based_modeling_of_economic_and_social_behavior)
-17. [An Introduction to ABM with NetLogo](https://www.intro-to-abm.com/index.html)
-18. [Intro to Agent Based Modeling]( https://towardsdatascience.com/intro-to-agent-based-modeling-3eea6a070b72 )
-19. [Quant Econ Lectures](https://quantecon.org/lectures/)
-20. [awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science)
+3. [Economic Emergence](https://www.sciencedirect.com/science/article/abs/pii/S0167268111002368)
+4. [Economics in Nouns and Verbs](https://arxiv.org/abs/2104.01868)
+5. [Representative Agents](https://en.wikipedia.org/wiki/Representative_agent)
+6. [Financial Contagion](https://en.wikipedia.org/wiki/Financial_contagion)
+7. [Simulacra and Simulation](https://en.wikipedia.org/wiki/Simulacra_and_Simulation)
+8. [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+9. [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/)
+10. [Paper Review: Generative Agents: Interactive Simulacra of Human Behavior](https://artgor.medium.com/paper-review-generative-agents-interactive-simulacra-of-human-behavior-cc5f8294b4ac)
+11. [Generative Agents](https://hackernoon.com/exploring-the-potential-of-generative-agents-simulating-human-behavior-with-ai)
+12. [Advances in the agent-based modeling of economic and social behavior](https://www.researchgate.net/publication/353069859_Advances_in_the_agent-based_modeling_of_economic_and_social_behavior)
+13. [An Introduction to ABM with NetLogo](https://www.intro-to-abm.com/index.html)
+14. [Intro to Agent Based Modeling]( https://towardsdatascience.com/intro-to-agent-based-modeling-3eea6a070b72 )
+15. [Multi-agent_systems](https://en.wikipedia.org/wiki/Category:Multi-agent_systems)
+	- [Agent Based Model](https://en.wikipedia.org/wiki/Agent-based_model)
+	- [Mesa: Agent-based modeling in Python 3+](https://mesa.readthedocs.io/en/stable/#)
+	- [AgentPy - Agent-based modeling in Python](https://agentpy.readthedocs.io/en/latest/)
+	- [Advanced Agent-Robotics Technology Lab](https://www.cs.cmu.edu/~softagents/)
+	- [Networked Multi Agent Systems](https://www.egr.msu.edu/d-cypher/projects/networked-multi-agent-systems)
+	- [Evolutionary Multi Agent Systems](https://home.agh.edu.pl/~iisg/emas/)
+	- [Multi-Agent System: An Introduction to Distributed Artificial Intelligence](https://www.jasss.org/4/2/reviews/rouchier.html)
+16. [Agent Oriented Programming](https://en.wikipedia.org/wiki/Agent-oriented_programming)
 
 ## Resources
 
@@ -37,6 +42,7 @@
 12. [Agent Based Computational Economics](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/ace.htm)
 13. [Repast: A Software Toolkit for Agent-Based Social Science Modeling](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/repastsg.htm)
 14. [A Completely Agent-Based Modeling Approach to the Study of Economic Systems](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/ace.htm)
+15. [awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science)
 
 ## Open Source
 
