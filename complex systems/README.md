@@ -1,5 +1,7 @@
 # Resources
 
+<details><summary><h2>Organizations and Labs</h2></summary>
+
 - [Network Science Institute](https://www.networkscienceinstitute.org/)
 - [New England Complex Systems Institute](https://necsi.edu/)
 - [UC Davis Complexity Science Center](https://csc.ucdavis.edu/Welcome.html)
@@ -18,6 +20,12 @@
 - [Nico](https://www.nico.northwestern.edu/)
 - [North Western](https://www.mccormick.northwestern.edu/applied-math/research/areas/complex-systems.html)
 - [Colorado](https://www.colorado.edu/cs/research/complex-systems)
+- [International Society for Computational Biology](https://www.iscb.org/index.php)
+- [awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology)
+
+</details>
+
+<details><summary><h2>General Resources</h2></summary>
 
 1. [Complex_systems_theory](https://en.wikipedia.org/wiki/Category:Complex_systems_theory)
 	- [Book: Introduction to the Modeling and Analysis of Complex Systems (Sayama)](https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Book%3A_Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama))
@@ -52,11 +60,167 @@
 	* [CS 224W](https://snap-stanford.github.io/cs224w-notes/)
 	* [Network Science Course](https://www.youtube.com/playlist?list=PLriUvS7IljvkGesFRuYjqRz4lKgodJgh2)
 	* [Complex Network: Theory and Application](https://www.youtube.com/playlist?list=PL6awLjcQvnYB8YSTKCFe1VDQlgKPFujW1)
+18. [CAS-503-Collectives](https://github.com/bcdaniels/CAS-503-Collectives)
+19. [CAS-570-Fundamentals-of-CAS](https://github.com/bcdaniels/CAS-570-Fundamentals-of-CAS)
+20. [CAS-523-Stats-and-Dim-Red](https://github.com/bcdaniels/CAS-523-Stats-and-Dim-Red)
+21. [AttAttach](https://github.com/Collective-Logic-Lab/AttAttach)
+22. [honey-bee-behavior](https://github.com/Collective-Logic-Lab/honey-bee-behavior)
 
-## Repositories
+</details>
 
-1. [CAS-503-Collectives](https://github.com/bcdaniels/CAS-503-Collectives)
-2. [CAS-570-Fundamentals-of-CAS](https://github.com/bcdaniels/CAS-570-Fundamentals-of-CAS)
-3. [CAS-523-Stats-and-Dim-Red](https://github.com/bcdaniels/CAS-523-Stats-and-Dim-Red)
-4. [AttAttach](https://github.com/Collective-Logic-Lab/AttAttach)
-5. [honey-bee-behavior](https://github.com/Collective-Logic-Lab/honey-bee-behavior)
+<details><summary><h2>Agent Based Modeling Resources</h2></summary>
+
+### Concepts
+
+1. [Evolutionary Game Theory](https://github.com/rmcelreath/VLEGT)
+2. [ABM in Economics](https://en.wikipedia.org/wiki/Agent-based_model#In_economics_and_social_sciences)
+3. [Economic Emergence](https://www.sciencedirect.com/science/article/abs/pii/S0167268111002368)
+4. [Economics in Nouns and Verbs](https://arxiv.org/abs/2104.01868)
+5. [Representative Agents](https://en.wikipedia.org/wiki/Representative_agent)
+6. [Financial Contagion](https://en.wikipedia.org/wiki/Financial_contagion)
+7. [Simulacra and Simulation](https://en.wikipedia.org/wiki/Simulacra_and_Simulation)
+8. [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+9. [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/)
+10. [Paper Review: Generative Agents: Interactive Simulacra of Human Behavior](https://artgor.medium.com/paper-review-generative-agents-interactive-simulacra-of-human-behavior-cc5f8294b4ac)
+11. [Generative Agents](https://hackernoon.com/exploring-the-potential-of-generative-agents-simulating-human-behavior-with-ai)
+12. [Advances in the agent-based modeling of economic and social behavior](https://www.researchgate.net/publication/353069859_Advances_in_the_agent-based_modeling_of_economic_and_social_behavior)
+13. [An Introduction to ABM with NetLogo](https://www.intro-to-abm.com/index.html)
+14. [Intro to Agent Based Modeling]( https://towardsdatascience.com/intro-to-agent-based-modeling-3eea6a070b72 )
+15. [Multi-agent_systems](https://en.wikipedia.org/wiki/Category:Multi-agent_systems)
+	- [Agent Based Model](https://en.wikipedia.org/wiki/Agent-based_model)
+	- [Mesa: Agent-based modeling in Python 3+](https://mesa.readthedocs.io/en/stable/#)
+	- [AgentPy - Agent-based modeling in Python](https://agentpy.readthedocs.io/en/latest/)
+	- [Advanced Agent-Robotics Technology Lab](https://www.cs.cmu.edu/~softagents/)
+	- [Networked Multi Agent Systems](https://www.egr.msu.edu/d-cypher/projects/networked-multi-agent-systems)
+	- [Evolutionary Multi Agent Systems](https://home.agh.edu.pl/~iisg/emas/)
+	- [Multi-Agent System: An Introduction to Distributed Artificial Intelligence](https://www.jasss.org/4/2/reviews/rouchier.html)
+16. [Agent Oriented Programming](https://en.wikipedia.org/wiki/Agent-oriented_programming)
+
+### Resources
+
+1. [Computational Economics](http://www2.econ.iastate.edu/tesfatsi/ace.htm)
+2. [Introduction to Computational Economics](https://www2.cs.duke.edu/courses/fall07/cps196.2/)
+3. [Quantitative Economics](https://quantecon.org/lectures/)
+4. [Algorithmic Game Theory](https://www.cis.upenn.edu/~aaroth/courses/agtS20.html)
+5. [Tim Roughgarden Lectures](http://timroughgarden.org/f13/f13.html)
+6. [Topics in Algorithmic Game Theory](http://people.csail.mit.edu/costis/6853fa2011/)
+7. [Discrete Choice and Simulation](https://eml.berkeley.edu/books/choice2.html)
+8. [Foundations of Computational Economics](https://fedor.iskh.me/compecon-video)
+9. [Notebook Gallery](https://notebook.community/)
+10. [Computational Economics Models](https://juejung.github.io/jdocs/Comp/html/index.html#)
+11. [Agent Based Modeling Introduction](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/abmread.htm)
+12. [Agent Based Computational Economics](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/ace.htm)
+13. [Repast: A Software Toolkit for Agent-Based Social Science Modeling](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/repastsg.htm)
+14. [A Completely Agent-Based Modeling Approach to the Study of Economic Systems](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/ace.htm)
+15. [awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science)
+
+### Videos
+
+1. [Agent Based Modeling - All you Wanted to Know](https://www.youtube.com/playlist?list=PLsv8cj_Tu8Ks_JKH9ZshfA6C6DO3MAG_q)
+2. [Agent Based Models and Multi Agent Systems using NetLogo](https://www.youtube.com/playlist?list=PLSx7bGPy9gbHivKzRg2enzdABgKUd3u-E)
+3. [Agent Based Modeling with Python](https://www.youtube.com/playlist?list=PLD4TWcPfbZO9HmaSutF_R2Y2RmiNDxvaP)
+4. [GIS and Agent Based Modeling](https://www.youtube.com/playlist?list=PLcAxwev2PmV-zXcXDheM-ZG9t6tWUzpWx)
+5. [Agent Based Models ion Economics](https://www.youtube.com/playlist?list=PLhYWrjQSgW9nzeXk8iRQ-WqoDPqYVej-K)
+6. [Agent Based and Individual Based Modeling](https://www.youtube.com/playlist?list=PLcAxwev2PmV8H206FTxJzKS5PQU7dq5ut)
+7. [Mesa: Agent Based Models with Python](https://www.youtube.com/playlist?list=PLF0b3ThojznRpQOd7iFukqXybbMV_vwZn)
+8. [Agent Based Modeling](https://www.youtube.com/playlist?list=PLG87Imnep1SnQSfZTpI-qbxVcw03M3Sed)
+9. [Reinforcement Learning for Multi Agent Systems](https://www.youtube.com/watch?v=FOLMxWXazCo)
+10. [Black-box Bayesian inference for economic agent-based models - Joel Dyer - 12 May 2022](https://www.youtube.com/watch?v=yVNE8focE30)
+11. [FMM: Introductury Lecture Godin Stock-Flow Consistent and Agent-Based Modelling](https://www.youtube.com/watch?v=fnpPEQd5sHw)
+12. [Agent-based simulation tutorial and AgentPy](https://www.youtube.com/watch?v=s5Itb-5rmrY)
+13. [Agent Based Models in Urban Systems](https://www.youtube.com/watch?v=DQihVrHiulY)
+14. [Complexity and agent-based modelling](https://www.youtube.com/watch?v=EqgGTDvbofg)
+15. [Justified Stories: formalising "what if?" for policy modelling](https://www.youtube.com/watch?v=iPFCR8nJCjo)
+16. [Using agent-based simulation to inform tobacco control policies](https://www.youtube.com/watch?v=xIRqEeigMV0)
+17. [Seminar: Using agent-based models to simulate social systems](https://www.youtube.com/watch?v=krwv1ghaA6o)
+18. [Tutorial - Agent Based Modelling In Python](https://www.youtube.com/watch?v=1wa9lysIaD8)
+19. [Workshop: Adding real world data to agent-based modelling for social scientists](https://www.youtube.com/watch?v=HJlj58bMj_0)
+20. [Introduction To Agent-Based Models by Andrew Crooks and Sara Metcalf](https://www.youtube.com/watch?v=clPu6wMuLfg&t=352s)
+21. [Webinar: Introduction to agent-based modelling for social scientists](https://www.youtube.com/watch?v=hsB3WelusDM&t=348s)
+22. [Percolation: a Mathematical Phase Transition](https://www.youtube.com/watch?v=a-767WnbaCQ)
+23. [Could One Physics Theory Unlock the Mysteries of the Brain?](https://www.youtube.com/watch?v=hjGFp7lMi9A)
+24. [What Is Turbulence? Turbulent Fluid Dynamics are Everywhere](https://www.youtube.com/watch?v=v5IoP9Pc-Y0)
+25. [The Anatomy of a Dynamical System](https://www.youtube.com/watch?v=-FvrON0OmYc)
+26. [Ergodicity](https://www.youtube.com/@ErgodicityTV/videos)
+27. [Everything you need to Know bout Control Theory](https://www.youtube.com/watch?v=lBC1nEq0_nk)
+28. [Generative Agents: Interactive Simulacra of Human Behavior](https://www.youtube.com/watch?v=xWnhHu5MibY&t=912s)
+29. [Generative Agents - Deep Dive and GPT-4 Recreation](https://www.youtube.com/watch?v=44TH6uKlNC4)
+30. [Agent-Based Modeling](https://youtube.com/playlist?list=PLF0b3ThojznRKYcrw8moYMUUJK2Ra8Hwl&si=UhqaQCPZHR0A7DvU)
+
+</details>
+
+<details><summary><h2>Computational Biology</h2></summary>
+
+1. [Swarm Intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence) and [Swarm_behaviour](https://en.wikipedia.org/wiki/Swarm_behaviour)
+	- [Bees Algorithm](https://en.wikipedia.org/wiki/Bees_algorithm)
+	- [Boids](https://en.wikipedia.org/wiki/Boids)
+	- [Flocking](https://en.wikipedia.org/wiki/Flocking_(behavior))
+	- [Ant colony optimization algorithms](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms)
+	- [Particle Swarm Optmization](https://en.wikipedia.org/wiki/Particle_swarm_optimization)
+	- [Evolutionary Algorithms](https://en.wikipedia.org/wiki/Category:Evolutionary_algorithms)
+	- [Evolutionary Computation](https://en.wikipedia.org/wiki/Category:Evolutionary_computation)
+	- [Artificial Life](https://en.wikipedia.org/wiki/Category:Artificial_life)
+	- [Collective Intelligence](https://en.wikipedia.org/wiki/Category:Collective_intelligence)
+	- [Polya Urn Model](https://en.wikipedia.org/wiki/P%C3%B3lya_urn_model)
+	- [Synthetic Intelligence](https://en.wikipedia.org/wiki/Synthetic_intelligence)
+2. [Graph Families](https://en.wikipedia.org/wiki/Category:Graph_families)
+	- [Graph Theory](https://en.wikipedia.org/wiki/Category:Graph_theory)
+	- [Directed Graphs](https://en.wikipedia.org/wiki/Category:Directed_graphs)
+	- [Graph Data Structures](https://en.wikipedia.org/wiki/Category:Graph_data_structures)
+	- [Petri Nets](https://en.wikipedia.org/wiki/Category:Petri_nets)
+	- [Direct Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+	- [Process Mining](https://en.wikipedia.org/wiki/Process_mining)
+	- [Process Calculus](https://en.wikipedia.org/wiki/Process_calculus)
+3. [Extended Evolutionary Synthesis](https://extendedevolutionarysynthesis.com/)
+	- [Concepts](https://en.wikipedia.org/wiki/Category:Extended_evolutionary_synthesis)
+	- [Group Selection](https://en.wikipedia.org/wiki/Group_selection)
+	- [Epigenetics](https://en.wikipedia.org/wiki/Epigenetics)
+	- [Coevolution](https://en.wikipedia.org/wiki/Coevolution)
+	- [Biological Interactions](https://en.wikipedia.org/wiki/Category:Biological_interactions)
+	- [Evolutionarily significant biological phenomena](https://en.wikipedia.org/wiki/Category:Evolutionarily_significant_biological_phenomena)
+	- [Symbiosis](https://en.wikipedia.org/wiki/Category:Symbiosis)
+4. [Introduction to Neural Computation](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/)
+5. [Bioinspiration](https://en.wikipedia.org/wiki/Category:Bioinspiration)
+6. [Evolutionary_biology](https://en.wikipedia.org/wiki/Category:Evolutionary_biology)
+	- [Evolutionary_developmental_biology](https://en.wikipedia.org/wiki/Evolutionary_developmental_biology)
+	- [Evolvability](https://en.wikipedia.org/wiki/Evolvability)
+	- [Evolution](https://en.wikipedia.org/wiki/Category:Evolution)
+	- [Subfields of Evolutionary Biology](https://en.wikipedia.org/wiki/Category:Subfields_of_evolutionary_biology)
+	- [Evolutionary Game Theory](https://en.wikipedia.org/wiki/Category:Evolutionary_game_theory)
+7. [Computational Biology](https://en.wikipedia.org/wiki/Category:Computational_biology)
+8. [Systems Biology](https://en.wikipedia.org/wiki/Category:Systems_biology)
+
+</details>
+
+
+<details><summary><h2>Open Source Tools</h2></summary>
+
+1. [Proton-T](https://github.com/LABSS/PROTON-T)
+2. [Simulator-Core](https://github.com/SocialSim/SimulatorCore)
+3. [SocialGym2](https://github.com/ut-amrl/SocialGym2)
+4. [Mesa](https://github.com/projectmesa/mesa)
+5. [NetLogo](https://github.com/NetLogo/NetLogo)
+6. [Agents.jl](https://github.com/JuliaDynamics/Agents.jl)
+7. [Graph Theory](https://github.com/je-suis-tm/graph-theory)
+8. [agentpy](https://github.com/JoelForamitti/agentpy)
+9. [depthmapX](https://github.com/varoudis/depthmapX)
+10. [krABMaga](https://github.com/krABMaga/krABMaga)
+11. [evoplex](https://github.com/evoplex/evoplex)
+12. [alien](https://github.com/chrxh/alien)
+13. [python_corona_simulation](https://github.com/paulvangentcom/python_corona_simulation)
+14. [EvolutionAquerium](https://github.com/anuraghazra/EvolutionAquerium)
+15. [LiSE](https://github.com/TacticalMetaphysics/LiSE)
+16. [epirust](https://github.com/thoughtworks/epirust)
+17. [spatial-microsim-book](https://github.com/Robinlovelace/spatial-microsim-book)
+18. [Abmarl](https://github.com/LLNL/Abmarl)
+19. [simpy](https://github.com/simpx/simpy)
+20. [ConcurrentSim.jl](https://github.com/JuliaDynamics/ConcurrentSim.jl)
+21. [DiscreteEvents.jl](https://github.com/JuliaDynamics/DiscreteEvents.jl)
+22. [abides](https://github.com/abides-sim/abides)
+23. [de_sim](https://github.com/KarrLab/de_sim)
+24. [discrete event simulator](https://github.com/holgerbrandl/kalasim)
+25. [rust agent based models](https://github.com/facorread/rust-agent-based-models)
+26. [Warteschlangensimulator](https://github.com/A-Herzog/Warteschlangensimulator)
+27. [generative-agents](https://github.com/mkturkcan/generative-agents)
+
+</details>

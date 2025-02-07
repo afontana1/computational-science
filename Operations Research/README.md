@@ -125,3 +125,6 @@
 39. [Taskpacker](https://github.com/Edinburgh-Genome-Foundry/Taskpacker)
 40. [scikit-decide](https://github.com/airbus/scikit-decide)
 41. [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co)
+42. [pyomo](https://github.com/Pyomo/pyomo)
+43. [optimization-demo-files](https://github.com/bruscalia/optimization-demo-files)
+44. [pulp](https://github.com/coin-or/pulp)
