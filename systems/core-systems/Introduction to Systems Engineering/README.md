@@ -1,6 +1,7 @@
 # [Introduction to Systems Engineering Specialization](https://www.coursera.org/specializations/introduction-systems-engineering)
 
 - [INCOSE](https://sdincose.org/)
+- [INCOSE Systems Engineering Handbook](https://sebokwiki.org/wiki/INCOSE_Systems_Engineering_Handbook)
 - [IEEE Systems Council](https://ieeesystemscouncil.org/)
 - [Enterprise Architecture - Svyatoslav Kotusev](https://kotusev.com/)
 - [Guide to the Systems Engineering Body of Knowledge (SEBoK)](https://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK))
