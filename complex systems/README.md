@@ -1,5 +1,8 @@
 # Resources
 
+- [Introduction to the Modeling and Analysis of Complex Systems (Sayama)](https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama))
+- [Introduction to Social Network Methods (Hanneman)](https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Book%3A_Introduction_to_Social_Network_Methods_(Hanneman))
+
 <details><summary><h2>Organizations and Labs</h2></summary>
 
 - [Network Science Institute](https://www.networkscienceinstitute.org/)
@@ -113,6 +116,7 @@
 13. [Repast: A Software Toolkit for Agent-Based Social Science Modeling](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/repastsg.htm)
 14. [A Completely Agent-Based Modeling Approach to the Study of Economic Systems](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/ace.htm)
 15. [awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science)
+16. [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)
 
 ### Videos
 

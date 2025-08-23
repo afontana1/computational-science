@@ -128,3 +128,5 @@
 42. [pyomo](https://github.com/Pyomo/pyomo)
 43. [optimization-demo-files](https://github.com/bruscalia/optimization-demo-files)
 44. [pulp](https://github.com/coin-or/pulp)
+45. [Pyomo](https://github.com/OptimizationExpert/Pyomo)
+46. [Mosek Tutorials](https://github.com/MOSEK/Tutorials)
