@@ -2,10 +2,6 @@
 
 ## General Resources
 
-- [Steve Brunton](https://www.eigensteve.com/)
-- [Modeling Languages](https://modeling-languages.com/)
-- [Potsdam Earth System Analysis](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/rd1-earth-system-analysis)
-
 1. [Computational Science and Engineering](https://gitlab.math.ethz.ch/NumCSE/NumCSE)
 2. [Feedback Systems](http://www.cds.caltech.edu/~murray/amwiki/index.php/Main_Page)
 3. [Signals and Systems](https://pages.jh.edu/~bcooper8/sigma_files/courses/214/Signals_Home.html)
@@ -30,7 +26,7 @@
 16. [Computational Science And Engineering I](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/)
 17. [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm)
 
-<details><summary><h2> Related Concepts </h2></summary>
+<details><summary><h2> Essential Computational Concepts </h2></summary>
 
 - [Mathematical Modeling](https://en.wikipedia.org/wiki/Category:Mathematical_modeling)
 - [Engineering Portal](https://en.m.wikipedia.org/wiki/Portal:Engineering)
