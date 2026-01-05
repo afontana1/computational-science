@@ -1,11 +1,154 @@
-# Resources
+## 1. What is [Operations Research](https://en.wikipedia.org/wiki/Category:Operations_research)?
 
-## [Operations Research](https://en.wikipedia.org/wiki/Category:Operations_research)
+**Goal:** Use mathematical modeling, optimization, and data to support **better decisions** in complex systems.
+
+**Common objectives:**
+
+* Minimize cost, time, or risk
+* Maximize profit, throughput, service level, or reliability
+* Balance multiple objectives (cost vs. quality vs. risk, etc.)
+
+**General Resources**
 
 - [Cornell University Computational Optimization Open Textbook](https://optimization.cbe.cornell.edu/index.php?title=Main_Page)
 - [Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematical_optimization)
 - [Google OR Tools](https://developers.google.com/optimization)
 - [MOSEK Modeling Cookbook](https://docs.mosek.com/modeling-cookbook/index.html#)
+
+---
+
+## 2. Deterministic Optimization
+
+### 2.1 [Linear_programming](https://en.wikipedia.org/wiki/Category:Linear_programming)
+
+**What it studies:** Optimization of a linear objective subject to linear constraints, continuous decision variables.
+
+**Canonical form:**
+Max/min (c^T x) s.t. (Ax \le b, x \ge 0).
+
+**Key methods & algorithms:**
+
+* Simplex method
+* Revised simplex
+* Dual simplex
+* Interior-point methods
+* Sensitivity / post-optimality analysis
+
+**Applications:**
+
+* Production planning & resource allocation
+* Blending problems (oil, chemicals, food)
+* Transportation and assignment problems
+* Workforce / shift scheduling (when relaxed to continuous)
+
+---
+
+### 2.2 Integer & Mixed-Integer Programming (IP / MIP)
+
+**What it studies:** Same as LP but with **integer or binary variables** (yes/no decisions, counts).
+
+**Key concepts:**
+
+* 0–1 programming
+* Mixed-integer linear programming (MILP)
+* Cutting planes, relaxations
+
+**Core algorithms:**
+
+* [Branch-and-bound](https://en.wikipedia.org/wiki/Branch_and_bound)
+* [Branch-and-cut](https://en.wikipedia.org/wiki/Branch_and_cut)
+* Branch-and-price
+* Cutting plane methods (Gomory cuts, etc.)
+
+**Typical problems:**
+
+* Facility location, network design
+* Vehicle routing and logistics
+* Project selection and capital budgeting
+* Scheduling with discrete constraints (e.g., assigning workers to shifts)
+
+---
+
+### 2.3 Network Optimization / Network Flows
+
+**What it studies:** Problems modeled on **graphs** (nodes and arcs) with flows, capacities, and costs.
+
+**Major problem types:**
+
+* Shortest path
+* Maximum flow
+* Minimum-cost flow
+* Assignment and matching
+* Steiner trees, network design
+
+**Algorithms:**
+
+* Dijkstra, Bellman–Ford, Floyd–Warshall (shortest path)
+* Ford–Fulkerson, Edmonds–Karp, Dinic (max flow)
+* Successive shortest path, cycle-canceling, network simplex (min-cost flow)
+* Hungarian algorithm (assignment)
+
+**Applications:**
+
+* Routing (telecom, transportation)
+* Supply chain design and distribution networks
+* Energy and power grids
+* Crew scheduling and airline planning
+
+---
+
+### 2.4 Nonlinear & Convex Optimization
+
+**What it studies:** Problems with **nonlinear** objectives or constraints; special focus on **convex** structure.
+
+**Types:**
+
+* Unconstrained vs. constrained
+* Convex vs. non-convex
+* Quadratic programming, conic optimization
+
+**Methods:**
+
+* Gradient / steepest descent
+* Newton and quasi-Newton (BFGS, etc.)
+* Sequential quadratic programming (SQP)
+* Interior-point methods for convex problems
+* ADMM and first-order methods for large-scale problems
+
+**Applications:**
+
+* Portfolio optimization and risk management
+* Engineering design (aerospace, mechanical, electrical)
+* Machine learning model training (many models = large nonlinear optimization)
+
+---
+
+### 2.5 [Combinatorial_optimization](https://en.wikipedia.org/wiki/Category:Combinatorial_optimization) & Scheduling
+
+**What it studies:** Discrete structures, often with **NP-hard** problems.
+
+**Typical problems:**
+
+* Traveling Salesman Problem (TSP)
+* Vehicle Routing Problem (VRP)
+* Job shop & flow shop scheduling
+* Knapsack and variants
+
+**Approaches:**
+
+* Exact algorithms (branch-and-bound, dynamic programming, cutting planes)
+* Decomposition methods (Lagrangian, Benders)
+* Heuristics and metaheuristics (see Section 7)
+
+**Applications:**
+
+* Manufacturing and production scheduling
+* Logistics and delivery routing
+* Timetabling & rostering (schools, hospitals, airlines)
+
+---
+
+## 3. Stochastic Models & Probability-Based OR
 
 1. [Markov_models](https://en.wikipedia.org/wiki/Category:Markov_models)
 2. [Markov_processes](https://en.wikipedia.org/wiki/Category:Markov_processes)
@@ -14,34 +157,352 @@
 	- [Stochastic Processes](https://www.youtube.com/playlist?list=PLTDbRVt9ixKRO0T0qmP43IyDrbh1i_5kW)
 	- [Advanced Stochastic Processes](https://www.youtube.com/playlist?list=PLV3oHJg9b1NRk4_LKUdqXPoN9jOWRypKI)
 	- [Stochastic Process](https://www.youtube.com/playlist?list=PLvpcUbGDkR2Cu_FGZifjh0Lgh1wNs2exH)
-4. **Stochastic Processes Courses** 
-	- [Course 1](https://www.stat.auckland.ac.nz/~fewster/325/index.php)
-	- [Course 2](https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/)
-	- [Course 3](https://www.ee.ryerson.ca/~courses/ee8103/)
-	- [Applied Stochastic Processes](https://sidbanerjee.orie.cornell.edu/courses/orie6500/)
-	- [Introduction to Stochastic Processes](https://ocw.mit.edu/courses/18-445-introduction-to-stochastic-processes-spring-2015/)
-	- [Probability and Stochastic Processes 1](https://www.utstat.utoronto.ca/mikevans/stac62/staC622021.html)
-	- [Stochastic_systems_courses](https://murray.cds.caltech.edu/Stochastic_systems_courses)
-	- [Probability and Stochastic Processes](https://ocw.metu.edu.tr/course/view.php?id=323)
-5. [Queueing Theory](https://en.wikipedia.org/wiki/Category:Queueing_theory)
-6. [Reliability Engineering](https://en.wikipedia.org/wiki/Category:Reliability_engineering)
-7. [Quality_assurance](https://en.wikipedia.org/wiki/Category:Quality_assurance)
-8. [Quality](https://en.wikipedia.org/wiki/Category:Quality)
-9. [Risk_analysis](https://en.wikipedia.org/wiki/Category:Risk_analysis)
-	* [Risk_analysis_methodologies](https://en.wikipedia.org/wiki/Category:Risk_analysis_methodologies)
-	* [Risk](https://en.wikipedia.org/wiki/Category:Risk)
-10. [Information Science](https://en.wikipedia.org/wiki/Category:Information_science)
-11. [Information Theory](https://en.wikipedia.org/wiki/Category:Information_theory)
-12. [Optimal Stopping](https://en.wikipedia.org/wiki/Optimal_stopping)
-13. [Scientific Computing with Python](https://caam37830.github.io/book/index.html)
-14. [Actuarial Science](https://en.wikipedia.org/wiki/Category:Actuarial_science)
-	* [Outline of Actuarial Science](https://en.wikipedia.org/wiki/Outline_of_actuarial_science)
-15. [Bellman Equation](https://en.wikipedia.org/wiki/Bellman_equation)
-16. [Analysis_of_algorithms](https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms)
-17. [Combinatorial_optimization](https://en.wikipedia.org/wiki/Category:Combinatorial_optimization)
-18. [Linear_programming](https://en.wikipedia.org/wiki/Category:Linear_programming)
-19. [Branch_and_cut](https://en.wikipedia.org/wiki/Branch_and_cut)
-20. [Branch_and_bound](https://en.wikipedia.org/wiki/Branch_and_bound)
+4. [Queueing Theory](https://en.wikipedia.org/wiki/Category:Queueing_theory)
+
+### 3.1 Queueing Theory
+
+**What it studies:** Systems with **random arrivals and service times**.
+
+**Key concepts:**
+
+* Arrival processes (Poisson)
+* Service time distributions (exponential, general)
+* Kendall notation (M/M/1, M/M/c, etc.)
+* Performance measures: waiting time, queue length, utilization, throughput
+
+**Analysis methods:**
+
+* Birth–death processes
+* Markov chains
+* Embedded Markov chains, transform methods
+* Approximation and heavy-traffic limits
+
+**Applications:**
+
+* Call centers, help desks
+* Hospital emergency departments
+* Computer networks, cloud servers
+* Airport security, checkout lines
+
+---
+
+### 3.2 Markov Chains & Markov Processes
+
+**Stochastic Processes Courses** 
+- [Course 1](https://www.stat.auckland.ac.nz/~fewster/325/index.php)
+- [Course 2](https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/)
+- [Course 3](https://www.ee.ryerson.ca/~courses/ee8103/)
+- [Applied Stochastic Processes](https://sidbanerjee.orie.cornell.edu/courses/orie6500/)
+- [Introduction to Stochastic Processes](https://ocw.mit.edu/courses/18-445-introduction-to-stochastic-processes-spring-2015/)
+- [Probability and Stochastic Processes 1](https://www.utstat.utoronto.ca/mikevans/stac62/staC622021.html)
+- [Stochastic_systems_courses](https://murray.cds.caltech.edu/Stochastic_systems_courses)
+- [Probability and Stochastic Processes](https://ocw.metu.edu.tr/course/view.php?id=323)
+
+**What it studies:** Systems evolving over time with **probabilistic transitions**.
+
+**Types:**
+
+* Discrete-time Markov chains (DTMC)
+* Continuous-time Markov chains (CTMC)
+* Markov reward processes
+
+**Methods:**
+
+* Transition matrices, steady-state analysis
+* First passage times, hitting probabilities
+* Decomposition, aggregation techniques
+
+**Applications:**
+
+* Reliability modeling and maintenance
+* Customer behavior and churn
+* Inventory systems with Markovian demand
+* Epidemic models (simplified)
+
+---
+
+### 3.3 Inventory Theory
+
+**What it studies:** Control of **stock levels** under uncertain demand and lead times.
+
+**Classic models:**
+
+* EOQ (Economic Order Quantity)
+* (Q, R) policies (order quantity, reorder point)
+* (s, S) policies (order-up-to)
+* Multi-echelon inventory, base-stock policies
+
+**Methods:**
+
+* Stochastic dynamic programming
+* Renewal theory
+* Approximation and asymptotic analysis
+
+**Applications:**
+
+* Retail and e-commerce inventory control
+* Spare parts and maintenance stocks
+* Pharmaceutical and perishable goods management
+
+---
+
+### 3.4 Reliability & Maintenance
+
+**What it studies:** System/component **failure behavior** and maintenance policies.
+
+**Key topics:**
+
+* Failure time distributions, hazard rate
+* Series/parallel systems, k-out-of-n systems
+* Preventive maintenance and replacement policies
+
+**Methods:**
+
+* Renewal processes
+* Markov and semi-Markov models
+* Reliability block diagrams, fault trees
+
+**Applications:**
+
+* Power plants and industrial equipment
+* Aircraft and vehicle fleets
+* IT infrastructure and data centers
+
+---
+
+## 4. Simulation
+
+**What it studies:** Complex systems that are **too messy for closed-form analysis**, often stochastic.
+
+**Types of simulation:**
+
+* Discrete-event simulation (DES)
+* Monte Carlo simulation
+* Agent-based simulation
+
+**Key elements:**
+
+* Random number generation and variance reduction
+* Model validation and sensitivity analysis
+* Design of experiments (DOE) on the simulator
+
+**Applications:**
+
+* Evaluating new hospital layout or staffing plans
+* Testing logistics network configurations
+* Risk analysis in finance and project management
+* Planning and stress-testing manufacturing systems
+
+---
+
+## 5. Decision Analysis & Game Theory
+
+### 5.1 Decision Theory / Decision Analysis
+
+**What it studies:** **Individual decision-making** under risk and uncertainty.
+
+**Core concepts:**
+
+* Decision trees and influence diagrams
+* Utility theory and risk preferences
+* Value of information (EVPI, EVPPI)
+* Multi-criteria decision analysis (MCDA)
+
+**Methods:**
+
+* Expected utility maximization
+* Analytic Hierarchy Process (AHP) and variants
+* Sensitivity analysis on decision models
+
+**Applications:**
+
+* R&D and investment decisions
+* Medical treatment choice under uncertainty
+* Policy choices with trade-offs (environment vs. cost)
+
+---
+
+### 5.2 Game Theory
+
+**What it studies:** **Strategic interactions** among multiple decision-makers.
+
+**Main topics:**
+
+* Normal-form and extensive-form games
+* Nash equilibria (pure/mixed)
+* Cooperative games and bargaining
+* Repeated games, evolutionary games
+
+**Applications:**
+
+* Pricing and competition in markets
+* Auctions and procurement
+* Defense and security, adversarial planning
+* Network routing with selfish agents (traffic, data networks)
+
+---
+
+## 6. Dynamic Programming & Stochastic Control
+
+**What it studies:** Multi-stage decisions where the **current decision affects future states**.
+
+**Core framework:**
+
+* State, decision, transition, cost, horizon
+* Bellman equations and optimality principle
+
+**Variants:**
+
+* Deterministic dynamic programming
+* Stochastic dynamic programming
+* Markov Decision Processes (MDPs)
+* Partially Observable MDPs (POMDPs)
+* [Bellman Equation](https://en.wikipedia.org/wiki/Bellman_equation)
+
+**Methods:**
+
+* Value iteration, policy iteration
+* Linear programming formulations
+* Approximate dynamic programming, reinforcement learning links
+
+**Applications:**
+
+* Optimal inventory and capacity expansion decisions
+* Asset replacement and maintenance scheduling
+* Revenue management and dynamic pricing
+* Robot motion planning and path control
+
+---
+
+## 7. Heuristics & Metaheuristics
+
+**What it studies:** **Approximate methods** for hard problems where exact optimization is too slow.
+
+**Constructive & local search heuristics:**
+
+* Greedy algorithms
+* Local search, hill climbing
+* Tabu search
+
+**Metaheuristics:**
+
+* Simulated annealing
+* Genetic algorithms / evolutionary algorithms
+* Ant colony optimization
+* Particle swarm optimization
+* GRASP, VNS, etc.
+
+**Applications:**
+
+* Large-scale scheduling (airlines, railways, manufacturing)
+* Complex routing (VRP with many side constraints)
+* Timetabling, layout design, cutting and packing
+
+---
+
+## 8. Data-Driven & Robust OR
+
+### 8.1 Robust Optimization
+
+**What it studies:** Optimization under **uncertainty without precise distributions**, controlling worst-case outcomes.
+
+**Key ideas:**
+
+* Uncertainty sets (box, ellipsoidal, polyhedral)
+* Robust counterparts of LP/MIP
+* Adjustable robust optimization (two-stage decisions)
+
+**Applications:**
+
+* Power systems and unit commitment with uncertain demand
+* Portfolio optimization with uncertain returns
+* Supply chain planning under demand variability
+
+---
+
+### 8.2 Stochastic Programming
+
+**What it studies:** **Optimization with explicit random variables** and often multiple stages.
+
+**Models:**
+
+* Two-stage recourse models
+* Multi-stage stochastic programs
+* Chance-constrained programming
+
+**Methods:**
+
+* Scenario generation
+* Benders decomposition, L-shaped algorithms
+* Sample average approximation (SAA)
+
+---
+
+### 8.3 Integration with Statistics & Machine Learning
+
+**Interactions:**
+
+* Predict-then-optimize pipelines (use ML forecasts inside OR models)
+* Prescriptive analytics (directly optimize decisions given data)
+* Inverse optimization (infer preferences/costs from observed decisions)
+
+**Applications:**
+
+* Personalized pricing and recommendations
+* Demand-driven inventory and staffing
+* Dynamic control using RL + OR structure
+
+---
+
+## 9. Applications by Domain (Very High-Level)
+
+* **Supply Chain & Logistics**
+
+  * Network design, facility location
+  * Transportation and routing, inventory and warehousing
+  * Vendor selection and contracts
+
+* **Manufacturing & Services**
+
+  * Production planning, lot sizing
+  * Job scheduling, maintenance planning
+  * Service system design (call centers, healthcare)
+
+* **Finance & Economics**
+
+  * Portfolio and risk optimization
+  * Asset-liability management
+  * Pricing and revenue management (airlines, hotels, car rentals)
+
+* **Energy & Utilities**
+
+  * Unit commitment and dispatch
+  * Hydro-thermal scheduling
+  * Renewable integration and storage operation
+
+* **Healthcare & Public Sector**
+
+  * Hospital operations (OR scheduling, bed management)
+  * Emergency response and disaster logistics
+  * Policy analysis, epidemic response strategies
+
+* **Telecom & Computing**
+
+  * Network routing and capacity planning
+  * Cloud resource allocation and scheduling
+  * Load balancing and congestion control
+
+---
+
+## 10. Extensions & Related Fields
+
+* **Constraint Programming (CP):** Logical constraints and search for combinatorial problems; often combined with OR.
+* **System Dynamics:** Feedback loops and differential equation models at an aggregate level.
+* **Control Theory:** Continuous-time dynamic systems, overlapping with dynamic programming and stochastic control.
+* **Human factors & Behavioral OR:** Incorporating real human behaviors and bounded rationality into models.
+* **Multi-objective Optimization:** Pareto fronts, trade-off analysis.
+
+---
 
 ## Courses
 
